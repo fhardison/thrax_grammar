@@ -1,90 +1,23 @@
-validated <https://en.wikisource.org/wiki/Help:Text_status>
-Download
+1. On Grammar. (γραμματική).
 
+Grammar is an experimental knowledge (ἐμπειρία) of the usages of language as generally current among poets and prose writers. It is divided into six parts:
 
-  The grammar of Dionysios Thrax
-
-From Wikisource
-					
-
-Jump to navigation <#mw-head> Jump to search <#searchInput>
-The grammar of Dionysios Thrax  (1874) 
-/by/ Dionysios Thrax
-<https://en.wikisource.org/wiki/Author:Dionysios_Thrax>/, translated by/
-Thomas Davidson
-<https://en.wikisource.org/wiki/Author:Thomas_Davidson_(1840-1900)>
-
-  * Related Portals.
-    <https://en.wikisource.org/wiki/Portal:Portals>related portals
-    <https://en.wikisource.org/wiki/Portal:Portals>: Greek language and
-    literature
-    <https://en.wikisource.org/wiki/Portal:Greek_language_and_literature>.
-  * Sister Projects.
-    <https://en.wikisource.org/wiki/Special:SiteMatrix>sister projects
-    <https://en.wikisource.org/wiki/Special:SiteMatrix>: Wikipedia
-    article <https://en.wikipedia.org/wiki/The_Art_of_Grammar>, Wikidata
-    item <https://www.wikidata.org/wiki/Q56804689>.
-
-(Reprinted from the Journal of Speculative Philosophy)
-
-Dionysios Thrax2568155The grammar of Dionysios Thrax1874Thomas Davidson
-<https://en.wikisource.org/wiki/Author:Thomas_Davidson_(1840-1900)>
-
-THE GRAMMAR OF DIONYSIOS THRAX.
-
-
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-
-
-[This famous little pamphlet, the first attempt at a systematic grammar
-made in the Western World, and for many generations a text-book in the
-schools of the Roman Empire, appears, I believe, now for the first time
-in English. Pretty nearly all that we know about the person of Dionysios
-is what we are told by Suidas, who says:
-
-"Dionysios the Alexandrian, called /the Thracian/ from [the native
-country of] his father Teros, was a disciple of Aristarchos, and a
-grammarian. He was a public professor (ἐσοφίστευσεν
-<https://en.wiktionary.org/wiki/%CF%83%CE%BF%CF%86%CE%B9%CF%83%CF%84%CE%B5%CF%8D%CF%89>) in Rome in the time of Pompey the Great, and was preceptor to Tyrannion the Elder. He composed a very large number of grammatical works, as well as set treatises and commentaries." – Cf. Max Müller, /Lectures on the Science of Language/, 1st Ser., p. 90 (English ed.); Lentz, /Herodiani Technici Reliquiæ/, Præf. p. clxvi.; Steinthal, /Gesch. der Sprachw. bei den Griechen und Römern/, pp. 478, 568 sqq.
-
-The Grammar of Dionysios was first printed (I believe, though Lersch
-says "/zuletzt/ abgedruckt") in 1816. in Immanuel Bekker's /Anecdota
-Græca/ (pp. 629-643) along with the scholia of Chœroboskos, Diomedes,
-Melampous, Porphyry, and Stephanos (pp. 647-972). The genuineness and
-authenticity of the work have been impugned, but have been defended by
-Lersch. /Die Sprachphilosophie der Alten/, Pt. II. pp. 64 sqq., and are
-now generally admitted. Cf. K. E. A. Schmidt, /Beiträge zur Geschichte
-der Grammatik des Gr. und des Lat./, pp. 81, 189, 216, 519.
-
-To my very literal translation I have added a few explanatory notes
-which seemed necessary, and a number of references for the convenience
-of persons who may wish to pursue the subject further. – /Translator/.]
-
-1. On Grammar. (γραμματική
-<https://en.wiktionary.org/wiki/%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AE>).
-
-Grammar is an experimental knowledge (ἐμπειρία
-<https://en.wiktionary.org/wiki/%E1%BC%90%CE%BC%CF%80%CE%B5%CE%B9%CF%81%CE%AF%CE%B1>) of the usages of language as generally current among poets and prose writers. It is divided into six parts:
-
-    1°. Trained reading with due regard to Prosody.^[1] <#cite_note-1> 
+    1°. Trained reading with due regard to Prosody.  
     2°. Explanation according to poetical figures.
-    3°. Ready statement of dialectical peculiarities^[2] <#cite_note-2>
+    3°. Ready statement of dialectical peculiarities 
     and allusions (ἱστορίαι
-    <https://en.wiktionary.org/wiki/%E1%BC%B1%CF%83%CF%84%CE%BF%CF%81%CE%AF%CE%B1>).
+    ).
     4°. Discovery of Etymology.
-    5°. An accurate account of analogies.^[3] <#cite_note-3> 
-    6°. Criticism^[4] <#cite_note-4> of poetical productions, which is
+    5°. An accurate account of analogies.  
+    6°. Criticism  of poetical productions, which is
     the noblest part of grammatic art.
 
-2. On Reading (ἀνάγνωσις
-<https://en.wiktionary.org/wiki/%E1%BC%80%CE%BD%CE%AC%CE%B3%CE%BD%CF%89%CF%83%CE%B9%CF%82>).
+2. On Reading (ἀνάγνωσις).
 
 Reading is the rendering of poetic or prose productions without
 stumbling or hesitancy. It must be done with due regard to expression,
-prosody, and pauses. Through the expression^[5] <#cite_note-5> we learn
-the merit (ἀρετή
-<https://en.wiktionary.org/wiki/%E1%BC%80%CF%81%CE%B5%CF%84%CE%AE>) of
+prosody, and pauses. Through the expression  we learn
+the merit (ἀρετή) of
 the piece; from the prosody, the art of the reader; and from the pauses,
 the meaning intended to be conveyed. In this way we read tragedy
 heroically, comedy conversationally, elegiacs thrillingly, epics
@@ -92,18 +25,16 @@ sustainedly, lyric poetry musically, and dirges softly and plaintively.
 Any reading done without due observance of these rules degrades the
 merits of the poets and makes the habits of readers ridiculous.
 
-3. On Tone (τόνος
-<https://en.wiktionary.org/wiki/%CF%84%CF%8C%CE%BD%CE%BF%CF%82>).
+3. On Tone (τόνος).
 
-Tone^[6] <#cite_note-6> is the resonance of a voice endowed with
+Tone  is the resonance of a voice endowed with
 harmony. It is heightened in the acute, balanced in the grave, and
 broken in the circumflex.
 
-4. On Punctuation (στιγμή
-<https://en.wiktionary.org/wiki/%CF%83%CF%84%CE%B9%CE%B3%CE%BC%CE%AE>).^[7] <#cite_note-7>
+4. On Punctuation (στιγμή). 
 
 There are three punctuation marks: the full stop, the semicolon, and the
-comma.^[8] <#cite_note-8> The full stop denotes that the sense is
+comma.  The full stop denotes that the sense is
 complete; the semicolon is a sign of where to take breath; the comma
 shows that the sense is not yet complete, but that something further
 must be added.
@@ -112,33 +43,26 @@ must be added.
 
 (τίνι διαφέρει στιγμὴ ὑποστιγμῆς;)
 
-^[9] <#cite_note-9> In time. At the full stop the pause is long, at the
+  In time. At the full stop the pause is long, at the
 comma, very short.
 
-6. On Rhapsody (ῥαψῳδία
-<https://en.wiktionary.org/wiki/%E1%BF%A5%CE%B1%CF%88%E1%BF%B3%CE%B4%CE%AF%CE%B1>).
+6. On Rhapsody (ῥαψῳδία).
 
 A Rhapsody is a part of a poem including a certain (definite) argument.
 It is called a rhapsody, that is, rhabdody, because those who recited
-the Homeric poems were girt with a laurel branch (ῥάβδος
-<https://en.wiktionary.org/wiki/%E1%BF%A5%CE%AC%CE%B2%CE%B4%CE%BF%CF%82>).^[10] <#cite_note-10>
+the Homeric poems were girt with a laurel branch (ῥάβδος). 
 
-7. On Elements (στοιχεῖα
-<https://en.wiktionary.org/wiki/%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%E1%BF%96%CE%BF%CE%BD>).^[11] <#cite_note-11>
+7. On Elements (στοιχεῖα). 
 
 There are twenty-four letters from α to ω. They are called letters
-(γράμματα
-<https://en.wiktionary.org/wiki/%CE%B3%CF%81%CE%AC%CE%BC%CE%BC%CE%B1>)
-from being formed of lines and scratches. For to write (γράψαι
-<https://en.wiktionary.org/wiki/%CE%B3%CF%81%CE%AC%CF%86%CF%89>), among
-the ancients, meant to scratch (ξύσαι
-<https://en.wiktionary.org/wiki/%CE%BE%CF%8D%CF%89>), as in Homer:
+(γράμματα)
+from being formed of lines and scratches. For to write (γράψαι), among
+the ancients, meant to scratch (ξύσαι), as in Homer:
 
 νῦν δέ μ᾽ ἐπιγράψας ταρσὸν ποδὸς εὔχεαι αὔτως.
 
 They are also called elements (στοιχεῖα) from being in a certain series
-(στοιχός
-<https://en.wiktionary.org/wiki/%CF%83%CF%84%CE%BF%E1%BF%96%CF%87%CE%BF%CF%82>) or arrangement. Of these letters, seven are /Vowels/: α, ε, η, ι, ο, υ, and ω. They are called vowels (φωνήεντα <https://en.wiktionary.org/wiki/%CF%86%CF%89%CE%BD%E1%BF%86%CE%B5%CE%BD>) because they form a complete sound (φωνή <https://en.wiktionary.org/wiki/%CF%86%CF%89%CE%BD%CE%AE>) by themselves. Of the vowels, two are /long/, η and ω; two are short, ε and ο; and three are /doubtful/, α, ι, υ. They are called doubtful^[12] <#cite_note-12> because they may be either lengthened or shortened. Five of the vowels are /prepositive/, α, ε, η, ο, ω. They are called prepositive because, when placed before ι or υ, they form a syllable, as αι, αυ. Two are /subjunctive/, ι and υ. Υ is sometimes prepositive to ι, as in μυῖα, ἅρπυια, υἱός, and the like. There are six diphthongs, αι, αυ, ει, ευ, οι, ου. The remaining seventeen letters are /Consonants/, β, γ, δ, ζ, θ, κ, λ, μ, ν, ξ, π, ρ, σ, τ, φ, χ, ψ. They are called consonants because by themselves they have no sound, but produce a sound only when they are combined with vowels.^[13] <#cite_note-vowels-13> Of the consonants, eight are /Semivowels/, ζ, ξ, ψ, λ, μ, ν, ρ, ς. They are called semivowels because, being less easily sounded than the vowels, when attempted to be pronounced alone, they result in hisses and mumblings. There are nine /Mutes/, β, γ, δ, θ, κ, π, τ, φ, χ. They are called mutes because they are more disagreeable in sound than the others, just as we say that a tragedian with a disagreeable voice is mute (ἄφωνος <https://en.wiktionary.org/wiki/%E1%BC%84%CF%86%CF%89%CE%BD%CE%BF%CF%82> = voiceless). Of these, three are /smooth/, κ, π, τ; three are /rough/, θ, φ, χ, and three are /medial/, β, γ, δ. The last are called medials because they are rougher than the smooths, and smoother than the roughs. And β is the medial between π and φ, γ between κ and χ, and δ between τ and θ. The roughs stand related to the smooths thus:
+(στοιχός) or arrangement. Of these letters, seven are /Vowels/: α, ε, η, ι, ο, υ, and ω. They are called vowels (φωνήεντα ) because they form a complete sound (φωνή ) by themselves. Of the vowels, two are /long/, η and ω; two are short, ε and ο; and three are /doubtful/, α, ι, υ. They are called doubtful  because they may be either lengthened or shortened. Five of the vowels are /prepositive/, α, ε, η, ο, ω. They are called prepositive because, when placed before ι or υ, they form a syllable, as αι, αυ. Two are /subjunctive/, ι and υ. Υ is sometimes prepositive to ι, as in μυῖα, ἅρπυια, υἱός, and the like. There are six diphthongs, αι, αυ, ει, ευ, οι, ου. The remaining seventeen letters are /Consonants/, β, γ, δ, ζ, θ, κ, λ, μ, ν, ξ, π, ρ, σ, τ, φ, χ, ψ. They are called consonants because by themselves they have no sound, but produce a sound only when they are combined with vowels.  Of the consonants, eight are /Semivowels/, ζ, ξ, ψ, λ, μ, ν, ρ, ς. They are called semivowels because, being less easily sounded than the vowels, when attempted to be pronounced alone, they result in hisses and mumblings. There are nine /Mutes/, β, γ, δ, θ, κ, π, τ, φ, χ. They are called mutes because they are more disagreeable in sound than the others, just as we say that a tragedian with a disagreeable voice is mute (ἄφωνος  = voiceless). Of these, three are /smooth/, κ, π, τ; three are /rough/, θ, φ, χ, and three are /medial/, β, γ, δ. The last are called medials because they are rougher than the smooths, and smoother than the roughs. And β is the medial between π and φ, γ between κ and χ, and δ between τ and θ. The roughs stand related to the smooths thus:
 
     φ to π—ἀλλά μοι εἴφ’ ὅπῃ ἔσχες ἰὼν εὐεργέα νῆα·
     χ to κ—αὐτίχ’ ὁ μὲν χλαῖνάν τε χιτῶνά τε ἕννυτ’ Ὀδυσσεύς·
@@ -146,7 +70,7 @@ They are also called elements (στοιχεῖα) from being in a certain series
 
 Again, of the consonants, three are /double/, ζ, ξ, ψ. They are called
 double because each one of them is composed of two consonants, ζ of ς
-and δ,^[14] <#cite_note-14> ξ of κ and σ, ψ of π and σ. Four are
+and δ,  ξ of κ and σ, ψ of π and σ. Four are
 /unchangeable/. They are called unchangeable because they do not change
 in the futures of verbs or the inflections of nouns. They are likewise
 called /liquids/. The final elements of masculine nouns, in the
@@ -158,37 +82,36 @@ neuters, six, α, ι, ν, ρ, σ, υ, as ἅρμα, μέλι, δένδρον, �
 duals are three, α, ε, ω, as Ἀτρείδα, Ἕκτορε, φίλω; of plurals, four, ι,
 ς, α, η, as φίλοι, Ἕκτορες, βιβλία, βέλη.
 
-8. On Syllables (συλλαβαί
-<https://en.wiktionary.org/wiki/%CF%83%CF%85%CE%BB%CE%BB%CE%B1%CE%B2%CE%AE>).^[15] <#cite_note-15>
+8. On Syllables (συλλαβαί). 
 
-A Syllable is properly the combination of a vowel^[16] <#cite_note-16>
+A Syllable is properly the combination of a vowel 
 with a consonant or consonants, as Κᾶρ, βοῦς. Improperly we speak of a
 syllable as composed of a single vowel, as ἆ, ἦ.
 
 9. On Long Syllables (μακραὶ
-<https://en.wiktionary.org/wiki/%CE%BC%CE%B1%CE%BA%CF%81%CF%8C%CF%82>
+
 συλλαβαί).
 
 A long syllable may come about in eight ways, three by nature and five
-by position^[17] <#cite_note-17> : by nature, when it is represented by
+by position  : by nature, when it is represented by
 the long elements, as ἥρως—or when one of the doubtful elements is
 assumed as long, as Ἄρης—or when it contains one of the diphthongs, as
 Αἴας; by position, either when it ends in two consonants, as ἅλς—or when
-a short or shortened^[18] <#cite_note-18> vowel is followed by two
+a short or shortened  vowel is followed by two
 consonants, as ἀργός—or when it ends in a single consonant and the next
 syllable begins with a consonant, as ἔργον—or when it is followed by a
 double consonant, as ἔξω—or when it ends in a double consonant, as ἅπαξ.
 
 10. On Short Syllables (βραχεῖαι
-<https://en.wiktionary.org/wiki/%CE%B2%CF%81%CE%B1%CF%87%CF%8D%CF%82>
+
 συλλαβαί).
 
 A syllable becomes short in two ways, either when it contains a vowel
 naturally short, as βρέφος—or when it has a doubtful vowel assumed as
-short, as Ἄρης.^[19] <#cite_note-19>
+short, as Ἄρης. 
 
 11. On Common Syllables (κοιναὶ
-<https://en.wiktionary.org/wiki/%CE%BA%CE%BF%CE%B9%CE%BD%CF%8C%CF%82>
+
 συλλαβαί).
 
 A syllable is common in three ways, either when it ends in a long vowel
@@ -206,27 +129,24 @@ next syllable begins with a vowel, as
 
     Νέστορα δ’ οὐκ ἔλαθεν ἰαχὴ πίνοντά περ ἔμπης.
 
-12. On the Word (λέξις
-<https://en.wiktionary.org/wiki/%CE%BB%CE%AD%CE%BE%CE%B9%CF%82>).
+12. On the Word (λέξις).
 
-A Word is the smallest part of an ordered sentence.^[20] <#cite_note-20>
+A Word is the smallest part of an ordered sentence. 
 
-13. On the Sentence (λόγος
-<https://en.wiktionary.org/wiki/%CE%BB%CF%8C%CE%B3%CE%BF%CF%82>).^[21]
-<#cite_note-21>
+13. On the Sentence (λόγος).
+
 
 A Sentence is combination of words, either in prose or in verse, making
 complete sense. There are eight parts of speech: Noun, Verb, Participle,
 Article, Pronoun, Preposition, Adverb, and Conjunction. The proper noun,
-as a species, is subordinate to the noun.^[22] <#cite_note-22>
+as a species, is subordinate to the noun. 
 
-14. On the Noun (ὄνομα
-<https://en.wiktionary.org/wiki/%E1%BD%84%CE%BD%CE%BF%CE%BC%CE%B1>).
+14. On the Noun (ὄνομα).
 
 A Noun is a declinable part of speech, signifying something either
 concrete or abstract (concrete, as stone; abstract, as education);
 common or proper (common, as man, horse; proper, as Socrates,
-Plato).^[23] <#cite_note-23> It has five accidents: genders, species,
+Plato).  It has five accidents: genders, species,
 forms, numbers, and cases.
 
 There are three /Genders/, the masculine, the feminine, and the neuter.
@@ -277,9 +197,9 @@ There are three /Numbers/, singular, dual, and plural; singular, as
 (Homers). There are some singular designations used of plural objects,
 as δῆμος (people), χορός (chorus); and plural designations used of
 singular and dual objects—of singular, as Ἀθῆναι
-<https://en.wiktionary.org/wiki/%E1%BC%88%CE%B8%E1%BF%86%CE%BD%CE%B1%CE%B9>, Θῆβαι <https://en.wiktionary.org/wiki/%CE%98%E1%BF%86%CE%B2%CE%B1%CE%B9> (Athens, Thebes)—of dual, as ἀμφότεροι <https://en.wiktionary.org/wiki/%E1%BC%80%CE%BC%CF%86%CF%8C%CF%84%CE%B5%CF%81%CE%BF%CE%B9> (both).
+, Θῆβαι  (Athens, Thebes)—of dual, as ἀμφότεροι  (both).
 
-There are five /Cases/, the right, the generic,^[24] <#cite_note-24> the
+There are five /Cases/, the right, the generic,  the
 dative, the accusative, and the vocative. The right case is called also
 the nominative and the direct; the generic, the possessive, and the
 patrial; the dative, the injunctive; while the accusative is named from
@@ -293,10 +213,10 @@ demonstrative, and retributive), collective, distributive, inclusive,
 onomatopoetic, general, special, ordinal, numeral, participative,
 independent.
 
-A /Proper/ noun is one signifying a peculiar substance,^[25]
-<#cite_note-25> as Homer, Sokrates. An /Appellative/ is one that
+A /Proper/ noun is one signifying a peculiar substance,
+ as Homer, Sokrates. An /Appellative/ is one that
 signifies a common substance, as /man/, /horse/. An /Adjective/ noun is
-one that is applied homonymously^[26] <#cite_note-26> to proper or
+one that is applied homonymously  to proper or
 appellative nouns, and signifies either praise or blame. It is derived
 from three sources, from the soul, the body, and external things: from
 the soul, as /sage/, /licentious;/ from the body, as /swift/, /slow;/
@@ -343,16 +263,15 @@ The /Dispositions/ of the noun are two. Activity and Passivity;
 Activity, as /the judge/, /the judging/; Passivity, as /judgeable/, /the
 judged/.
 
-15. On the Verb (ῥῆμα
-<https://en.wiktionary.org/wiki/%E1%BF%A5%E1%BF%86%CE%BC%CE%B1>).^[27]
-<#cite_note-27>
+15. On the Verb (ῥῆμα).
+
 
 A Verb is an indeclinable word, indicating time, person and number, and
 showing activity or passivity. The verb has eight accidents: Moods,
 Dispositions (voices!), Species, Forms, Numbers, Tenses, Persons,
 Conjugations. There are five /Moods/: Indicative, Imperative, Optative,
-Subjunctive, and Infinitive. There are three /Dispositions/^[28]
-<#cite_note-28> : Activity, Passivity, and Mediality—Activity, as τύπτω
+Subjunctive, and Infinitive. There are three /Dispositions/
+ : Activity, Passivity, and Mediality—Activity, as τύπτω
 (I strike); Passivity, as τύπτομαι (I am struck); Mediality, marking
 partly activity and partly passivity, as πέποιθα (I trust), διέφθορα (I
 waste), ἐποιησάμην (I became), ἐγραψάμην (I registered). There are two
@@ -370,8 +289,7 @@ Aorist—which stand in three respective relations: the Present is related
 to the Imperfect, the Perfect to the Pluperfect, and the Aorist to the
 Future.
 
-16. On Conjugation (συζυγία
-<https://en.wiktionary.org/wiki/%CF%83%CF%85%CE%B6%CF%85%CE%B3%CE%AF%CE%B1>).
+16. On Conjugation (συζυγία).
 
 Conjugation is the consecutive inflection of Verbs. Of Barytone Verbs
 there are six conjugations, of which the First is characterized by β, φ,
@@ -382,13 +300,12 @@ four unchangeables, λ, μ, ν, ρ, as πάλλω, νέμω; and the Sixth by a 
 as ἱππεύω, πλέω, βασιλεύω, ἀκούω. Some also introduce a Seventh
 Conjugation, characterized by ξ and ψ, as ἀλέξω, ἕψω.
 
-17. On Circumflexed Verbs (περισπώμενα
-<https://en.wiktionary.org/wiki/%CF%80%CE%B5%CF%81%CE%B9%CF%83%CF%80%CF%8E%CE%BC%CE%B5%CE%BD%CE%BF%CF%82>).
+17. On Circumflexed Verbs (περισπώμενα).
 
 Of Circumflexed Verbs there are three Conjugations, of which the First
 is characterized in the second and third persons by the diphthong ει, as
 νοῶ, νοεῖς, νοεῖ; the Second by the diphthong ᾳ, as βοῶ, βοᾷς, βοᾷ (the
-ι being added in writing,^[29] <#cite_note-29> but not pronounced); and
+ι being added in writing,  but not pronounced); and
 the Third by the diphthong οι, as χρυσῶ, χρυσοῖς, χρυσοῖ.
 
 18. On Verbs in μι (τὰ εἰς μι).
@@ -399,26 +316,24 @@ characterized from the first of the Circumflexed Conjugations, as from
 Third from the third, as from διδῶ, δίδωμι; and the Fourth from the
 sixth of the Barytone Conjugations, as from πηγνύω, πήγνυμι.
 
-19. On the Participle (μετοχή
-<https://en.wiktionary.org/wiki/%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE>).
+19. On the Participle (μετοχή).
 
 A Participle is a word partaking of the nature both of nouns and verbs.
 It has all the accidents which belong to nouns as well as those which
 belong to verbs, except mood and person.
 
-20. On the Article (ἄρθρον
-<https://en.wiktionary.org/wiki/%E1%BC%84%CF%81%CE%B8%CF%81%CE%BF%CE%BD>).
+20. On the Article (ἄρθρον).
 
 An Article is a declinable part of speech prefixed or subjoined to the
 various cases of nouns, taking, when prefixed, the form ὁ, and, when
-subjoined, the form ὅς.^[30] <#cite_note-30> . It has three accidents:
+subjoined, the form ὅς.  . It has three accidents:
 Gender, Number, and Case. The /Genders/ are three, as ὁ ποιητής, ἡ
 ποίησις, τὸ ποίημα. The /Numbers/ are three: Singular, Dual, and
 Plural—Singular, as ὁ, ἡ, τό; Dual, as τώ, τά; Plural, as οἱ, αἱ, τά.
 The /Cases/ are—ὁ, τοῦ, τῷ, τόν, ὦ; ἡ, τῆς, τῇ, τήν, ὦ; τό, τοῦ, τῷ, τό, ὦ.
 
 21. On the Pronoun (ἀντωνυμία
-<https://en.wiktionary.org/wiki/%E1%BC%80%CE%BD%CF%84%CF%89%CE%BD%CF%85%CE%BC%CE%AF%CE%B1>.)^[31] <#cite_note-31>
+.) 
 
 A Pronoun is a word assumed instead of a noun, and indicating definite
 persons. It has six accidents: Person, Gender, Number, Case, Form, and
@@ -427,7 +342,7 @@ Species.
 22. On Primitive Pronouns.
 
 The /Persons/ of the Primitive Pronouns are ἐνώ
-<https://en.wiktionary.org/wiki/%E1%BC%90%CE%B3%CF%8E>, σύ, ἴ; those of
+, σύ, ἴ; those of
 the Derivative Pronouns, ἐμός, σός, ὅς. The /Genders/ of the Primitive
 Pronouns are not expressed in speech, but by the indication which they
 make, as ἐγώ (I), whereas the Genders of the Derivatives are expressed
@@ -447,23 +362,21 @@ one possessor, as ἐμοῦ, ἐμός; from Duals, those designating two, as f
 ἡμέτερος. Of the Pronouns, some are [used] without the article and some
 with it—without the article, as ἐγώ; with the article, as ὁ ἐμός.
 
-23. On Prepositions (πρόθεσις
-<https://en.wiktionary.org/wiki/%CF%80%CF%81%CF%8C%CE%B8%CE%B5%CF%83%CE%B9%CF%82>).^[32] <#cite_note-32>
+23. On Prepositions (πρόθεσις). 
 
 A Preposition is a word placed before any of the parts of speech, both
 in Composition and in Syntax. The number of Prepositions is eighteen,
 whereof six are monosyllabic, ἐν
-<https://en.wiktionary.org/wiki/%E1%BC%90%CE%BD>, εἰς
-<https://en.wiktionary.org/wiki/%CE%B5%E1%BC%B0%CF%82>, ἔξ
-<https://en.wiktionary.org/wiki/%E1%BC%94%CE%BE>, πρό
-<https://en.wiktionary.org/wiki/%CF%80%CF%81%CF%8C>, πρός
-<https://en.wiktionary.org/wiki/%CF%80%CF%81%CF%8C%CF%82>, σύν
-<https://en.wiktionary.org/wiki/%CF%83%CF%8D%CE%BD>—which are incapable
+, εἰς
+, ἔξ
+, πρό
+, πρός
+, σύν
+—which are incapable
 of anastrophé—and twelve are dissyllabic, ἀνά, κατά, διά, μετά, παρά,
 ἀντί, ἐπί, περί, ἀμφί, ἀπό, ὑπό, ὑπέρ.
 
-24. On the Adverb (ἐπίῤῥημα
-<https://en.wiktionary.org/wiki/%E1%BC%90%CF%80%CE%AF%CF%81%CF%81%CE%B7%CE%BC%CE%B1>).^[33] <#cite_note-33>
+24. On the Adverb (ἐπίῤῥημα). 
 
 An Adverb is an indeclinable part of speech, said of a verb or added to
 a verb. Of the Adverbs, some are Simple, and others Compound—Simple, as
@@ -480,10 +393,9 @@ those signifying /to/ a place, and those signifying /from/ a place, as
 negation, as οὔ, οὐχί, οὐ δῆτα, οὐδαμῶς; some, agreement, as ναί, ναίχι;
 some, prohibition, as μή, μὴ δῆτα, μηδαμῶς; some, comparison or
 similarity, as ὥς, ὥσπερ, ἠΰτε, καθά, καθάτερ
-<https://en.wiktionary.org/wiki/%CE%BA%CE%B1%CE%B8%CE%AC%CF%80%CE%B5%CF%81>; some, surprise, as βαβαί; some, probability, as ἴσως, τάχα, τυχόν; some, order, as ἑξῆς, ἐφεξῆς, χωρίς; some, congregation, as ἄρδην, ἅμα, ἤλιθα; some, command, as εἶα, ἄγε, φέρε; some, comparison, as μᾶλλον, ἦττον <https://en.wiktionary.org/wiki/%E1%BC%A7%CF%84%CF%84%CE%BF%CE%BD>; some, interrogation, as πόθεν, ποῦ, πηνίκα, πῶς; some, vehemence, as σφόδρα, ἄγαν, πάνυ, μάλιστα; some, coincidence, as ἅμα, ὁμοῦ, ἄμυδις; some are deprecative, as μά; some are asseverative, as νή; some are positive, as ἀγνωστέον, γραπτέον, πλευστέον; some express ratification, as δηλαδή; and some enthusiasm, as εὐοῖ, εὐάν.
+; some, surprise, as βαβαί; some, probability, as ἴσως, τάχα, τυχόν; some, order, as ἑξῆς, ἐφεξῆς, χωρίς; some, congregation, as ἄρδην, ἅμα, ἤλιθα; some, command, as εἶα, ἄγε, φέρε; some, comparison, as μᾶλλον, ἦττον ; some, interrogation, as πόθεν, ποῦ, πηνίκα, πῶς; some, vehemence, as σφόδρα, ἄγαν, πάνυ, μάλιστα; some, coincidence, as ἅμα, ὁμοῦ, ἄμυδις; some are deprecative, as μά; some are asseverative, as νή; some are positive, as ἀγνωστέον, γραπτέον, πλευστέον; some express ratification, as δηλαδή; and some enthusiasm, as εὐοῖ, εὐάν.
 
-25. On Conjunctions (σύνδεσμος
-<https://en.wiktionary.org/wiki/%CF%83%CF%8D%CE%BD%CE%B4%CE%B5%CF%83%CE%BC%CE%BF%CF%82>).^[34] <#cite_note-34>
+25. On Conjunctions (σύνδεσμος). 
 
 A Conjunction is a word binding together a thought in order and filling
 up the hiatuses of speech. Of conjunctions, some are copulative, some
@@ -498,35 +410,35 @@ any actual existence, but signify sequence: they are these, εἰ, εἴπερ,
 εἰδή, εἰδήπερ. The /Præter-conjunctives/ are those which, along with
 actual existence, show also order: they are these, ἐπεί, ἐπείπερ,
 ἐπειδή, ἐπειδήπερ
-<https://en.wiktionary.org/wiki/%E1%BC%90%CF%80%CE%B5%CE%B9%CE%B4%CE%AE%CF%80%CE%B5%CF%81>. /Causatives/ are those which are taken to express cause: they are these, ἵνα <https://en.wiktionary.org/wiki/%E1%BC%B5%CE%BD%CE%B1>, ὄφρα <https://en.wiktionary.org/wiki/%E1%BD%84%CF%86%CF%81%CE%B1>, ὅπως <https://en.wiktionary.org/wiki/%E1%BD%85%CF%80%CF%89%CF%82>, ἕνεκα <https://en.wiktionary.org/wiki/%E1%BC%95%CE%BD%CE%B5%CE%BA%CE%B1>, οὕνεκα <https://en.wiktionary.org/wiki/%CE%BF%E1%BD%95%CE%BD%CE%B5%CE%BA%CE%B1>, ὅτι <https://en.wiktionary.org/wiki/%E1%BD%85%CF%84%CE%B9>, διό <https://en.wiktionary.org/wiki/%CE%B4%CE%B9%CF%8C>, διότι <https://en.wiktionary.org/wiki/%CE%B4%CE%B9%CF%8C%CF%84%CE%B9>, καθό <https://en.wiktionary.org/wiki/%CE%BA%CE%B1%CE%B8%CF%8C>, καθότι <https://en.wiktionary.org/wiki/%CE%BA%CE%B1%CE%B8%CF%8C%CF%84%CE%B9>, καθόσον <https://en.wiktionary.org/wiki/%CE%BA%CE%B1%CE%B8%CF%8C%CF%83%CE%BF%CE%BD>. /Dubitatives/ are those which we are wont to use when we are in doubt; they are these, ἆρα <https://en.wiktionary.org/wiki/%E1%BC%86%CF%81%CE%B1>, κἆτα <https://en.wiktionary.org/wiki/%CE%BA%E1%BC%86%CF%84%CE%B1>, μῶν <https://en.wiktionary.org/wiki/%CE%BC%E1%BF%B6%CE%BD>. /Inferentials/ are those which lend themselves readily to conclusions and summings-up of demonstrations: they are these, ἄρα <https://en.wiktionary.org/wiki/%E1%BC%84%CF%81%CE%B1>, ἀλλά <https://en.wiktionary.org/wiki/%E1%BC%80%CE%BB%CE%BB%CE%AC>, ἀλλὰ μέν <https://en.wiktionary.org/wiki/%E1%BC%80%CE%BB%CE%BB%E1%BD%B0_%CE%BC%CE%AD%CE%BD>, τοίνυν <https://en.wiktionary.org/wiki/%CF%84%CE%BF%CE%AF%CE%BD%CF%85%CE%BD>, τοιγάρτοι <https://en.wiktionary.org/wiki/%CF%84%CE%BF%CE%B9%CE%B3%CE%AC%CF%81%CF%84%CE%BF%CE%B9>, τοιγαροῦν <https://en.wiktionary.org/wiki/%CF%84%CE%BF%CE%B9%CE%B3%CE%B1%CF%81%CE%BF%E1%BF%A6%CE%BD>. /Expletives/ are those which are used for the sake of metre or ornament: they are these, δή <https://en.wiktionary.org/wiki/%CE%B4%CE%AE>, ῥά <https://en.wiktionary.org/wiki/%E1%BF%A5%CE%AC>, νύ <https://en.wiktionary.org/wiki/%CE%BD%CF%8D>, ποῦ <https://en.wiktionary.org/wiki/%CF%80%CE%BF%E1%BF%A6>, τοί <https://en.wiktionary.org/wiki/%CF%84%CE%BF%CE%AF>, θήν <https://en.wiktionary.org/wiki/%CE%B8%CE%AE%CE%BD>, ἄρ <https://en.wiktionary.org/wiki/%E1%BC%84%CF%81>, δῆτα <https://en.wiktionary.org/wiki/%CE%B4%E1%BF%86%CF%84%CE%B1>, πέρ <https://en.wiktionary.org/wiki/%CF%80%CE%AD%CF%81>, πώ <https://en.wiktionary.org/wiki/%CF%80%CF%8E>, μήν <https://en.wiktionary.org/wiki/%CE%BC%CE%AE%CE%BD>, ἄν <https://en.wiktionary.org/wiki/%E1%BC%84%CE%BD>, αὖ <https://en.wiktionary.org/wiki/%CE%B1%E1%BD%96>, οὖν <https://en.wiktionary.org/wiki/%CE%BF%E1%BD%96%CE%BD>, κέν <https://en.wiktionary.org/wiki/%CE%BA%CE%AD%CE%BD>, γέ <https://en.wiktionary.org/wiki/%CE%B3%CE%AD>. Some persons add also /Adversatives/, as ἔμπης <https://en.wiktionary.org/wiki/%E1%BC%94%CE%BC%CF%80%CE%B7%CF%82>, ὅμως <https://en.wiktionary.org/wiki/%E1%BD%85%CE%BC%CF%89%CF%82>.
+. /Causatives/ are those which are taken to express cause: they are these, ἵνα , ὄφρα , ὅπως , ἕνεκα , οὕνεκα , ὅτι , διό , διότι , καθό , καθότι , καθόσον . /Dubitatives/ are those which we are wont to use when we are in doubt; they are these, ἆρα , κἆτα , μῶν . /Inferentials/ are those which lend themselves readily to conclusions and summings-up of demonstrations: they are these, ἄρα , ἀλλά , ἀλλὰ μέν , τοίνυν , τοιγάρτοι , τοιγαροῦν . /Expletives/ are those which are used for the sake of metre or ornament: they are these, δή , ῥά , νύ , ποῦ , τοί , θήν , ἄρ , δῆτα , πέρ , πώ , μήν , ἄν , αὖ , οὖν , κέν , γέ . Some persons add also /Adversatives/, as ἔμπης , ὅμως .
 
 ------------------------------------------------------------------------
 
- 1. ↑ <#cite_ref-1> Prosody (προσῳδία
-    <https://en.wiktionary.org/wiki/%CF%80%CF%81%CE%BF%CF%83%E1%BF%B3%CE%B4%CE%AF%CE%B1>), in the Greek sense, includes everything designated by diacritical marks — aspiration, accentuation, quantity, and sometimes pauses. Vid. Bekker, /Anecdota Græca/, pp. 679 sqq. ; K. E. A. Schmidt, /Beiträge zur Geschichte der Grammatik/, pp. 181 sqq. Prosody had nothing whatsoever to do with verse-making, although it was related to music.
- 2. ↑ <#cite_ref-2> Vid. Waitz, /Aristotelis Organon/, vol. i. pp. 323 sq.
- 3. ↑ <#cite_ref-3> Here came in all that we generally understand by
+ 1. ↑  Prosody (προσῳδία
+    ), in the Greek sense, includes everything designated by diacritical marks — aspiration, accentuation, quantity, and sometimes pauses. Vid. Bekker, /Anecdota Græca/, pp. 679 sqq. ; K. E. A. Schmidt, /Beiträge zur Geschichte der Grammatik/, pp. 181 sqq. Prosody had nothing whatsoever to do with verse-making, although it was related to music.
+ 2. ↑  Vid. Waitz, /Aristotelis Organon/, vol. i. pp. 323 sq.
+ 3. ↑  Here came in all that we generally understand by
     Grammar. The whole of the first part of Lersch's /Sprachphilosophie
     der Alten/ is devoted to the question of Analogy and Anomaly.
- 4. ↑ <#cite_ref-4> Such Criticism apparently did not include a
+ 4. ↑  Such Criticism apparently did not include a
     discussion of the poetical merits of a piece (κρίνει δὲ τὰ ποιήματα
     οὐχ ὅτι καλά ἐστιν ἢ κακά· ποιητοῦ γὰρ ἂν εἴη τὸ τοιοῦτον.)
- 5. ↑ <#cite_ref-5> Expression (ὑπόκρισις
-    <https://en.wiktionary.org/wiki/%E1%BD%91%CF%80%CF%8C%CE%BA%CF%81%CE%B9%CF%83%CE%B9%CF%82>) is defined as being equivalent to μίμησις <https://en.wiktionary.org/wiki/%CE%BC%CE%AF%CE%BC%CE%B7%CF%83%CE%B9%CF%82> or Imitation.
- 6. ↑ <#cite_ref-6> Tone is what we usually call accent. The Latin
+ 5. ↑  Expression (ὑπόκρισις
+    ) is defined as being equivalent to μίμησις  or Imitation.
+ 6. ↑  Tone is what we usually call accent. The Latin
     /accentus/, however, formed in imitation of the Greek προσῳδία
-    <https://en.wiktionary.org/wiki/%CF%80%CF%81%CE%BF%CF%83%E1%BF%B3%CE%B4%CE%AF%CE%B1>, was undoubtedly intended to have the same width of meaning as the latter. Vid. Schmidt, /Beiträge/, pp. 190 sqq.
- 7. ↑ <#cite_ref-7> On this whole question, vid. Schmidt, /Beiträge/,
+    , was undoubtedly intended to have the same width of meaning as the latter. Vid. Schmidt, /Beiträge/, pp. 190 sqq.
+ 7. ↑  On this whole question, vid. Schmidt, /Beiträge/,
     pp. 506-570.
- 8. ↑ <#cite_ref-8> These terms are hardly accurate; the sequel explains
+ 8. ↑  These terms are hardly accurate; the sequel explains
     their meaning.
- 9. ↑ <#cite_ref-9> It will be seen that in practice Dionysios
+ 9. ↑  It will be seen that in practice Dionysios
     distinguishes only /two/ punctuation marks, the στιγμὴ μέση
     (semicolon) being really not one at all.
-10. ↑ <#cite_ref-10> Cf. Grote, /Hist. of Greece/, vol. ii. p. 141,
+10. ↑  Cf. Grote, /Hist. of Greece/, vol. ii. p. 141,
     note; Wolf. Proleg., pp. 58 sqq. (Edit. Calvary); K. O. Müller,
     /Hist. of Lit. of Ancient Greece/, pp. 33 sqq.
-11. ↑ <#cite_ref-11> On Στοιχεῖον, vid. Aristotle, /Metaph./ I. 1 (1026,
+11. ↑  On Στοιχεῖον, vid. Aristotle, /Metaph./ I. 1 (1026,
     b. 12); Bonitz, /Aristotelis Metaph./ pp. 225 sq.; Schmidt,
     /Beiträge/, pp. 80 sqq., 126. Aristotle's definition of στοιχεῖον,
     as meaning a sound, is: "An element is an indivisible sound, not
@@ -534,68 +446,68 @@ actual existence, show also order: they are these, ἐπεί, ἐπείπερ,
     are capable of entering into the formation of intelligible speech."
     — /Poet./ cap. xx. Cf. Steinthal, /Gesch. der Sprachw. bei den Gr.
     und Röm./, pp. 248 sq.
-12. ↑ <#cite_ref-12> Δίχρονοι
-    <https://en.wiktionary.org/wiki/%CE%B4%CE%AF%CF%87%CF%81%CE%BF%CE%BD%CE%BF%CF%82> = of twofold time. Cf. Rossbach und Westphal, /Metrik der Griech./, vol. ii. pp. 66 sqq.
-13. ↑ <#cite_ref-vowels_13-0> Aristotle, /Poetics/, cap. xx., makes
+12. ↑  Δίχρονοι
+     = of twofold time. Cf. Rossbach und Westphal, /Metrik der Griech./, vol. ii. pp. 66 sqq.
+13. ↑  Aristotle, /Poetics/, cap. xx., makes
     three divisions of sounds — τό τε φωνῆεν και τὸ ἡμίφωνον καὶ ἄφωνον
     — vowels, semivowels, and mutes. Cf. with the whole of Dionysios'
     classification, Schleicher, /Compend. der verg. Grammatik der/
     /Indoger. Spr./, pp. 54 sqq. /et passim;/ Curtius, /Grundzüge der
     griech Etymologie/, pp. 85 sqq.; Max Müller, /Lectures/, 2nd Series,
     Lect. III.
-14. ↑ <#cite_ref-14> Cf. Aristotle, /Metaph./, A 9 (993^a 5), /v/ 6
+14. ↑  Cf. Aristotle, /Metaph./, A 9 (993^a 5), /v/ 6
     (1093^a 20); Kühner, /Ausführ. Gram. der Gr. Spr./, vol. i. p. 55.
-15. ↑ <#cite_ref-15> Cf. Aristotle, /Poetics/, cap. xx.; Schmidt,
+15. ↑  Cf. Aristotle, /Poetics/, cap. xx.; Schmidt,
     /Beiträge/, pp. 126-180; Steinthal, /Sprachw. bei den Gr. und Röm./,
     p. 254.
-16. ↑ <#cite_ref-16> Or diphthong, evidently.
-17. ↑ <#cite_ref-17> Position (θέσις
-    <https://en.wiktionary.org/wiki/%CE%B8%CE%AD%CF%83%CE%B9%CF%82>), in
+16. ↑  Or diphthong, evidently.
+17. ↑  Position (θέσις
+    ), in
     this connection, does not mean, as is generally supposed, place, but
     convention, arbitrary imposition, as opposed to nature (φύσις
-    <https://en.wiktionary.org/wiki/%CF%86%CF%8D%CF%83%CE%B9%CF%82>).
+    ).
     Vid. Lersch, /Sprachphilosophie/ Pt. I p. 5; Rossbach und Westphal,
     /Metrik der Griechen./ vol. ii. p. 74. This shows the utter
     absurdity of the rule, laid down in so many Greek and Latin
     grammars, that a vowel followed by two consonants is long.
-18. ↑ <#cite_ref-18> A short vowel is either ε or ο; a shortened vowel
+18. ↑  A short vowel is either ε or ο; a shortened vowel
     is a doubtful vowel (α, ι, υ) assumed as short.
-19. ↑ <#cite_ref-19> Cf. Hom. /Il./, v. 31:
+19. ↑  Cf. Hom. /Il./, v. 31:
 
         Ὰρες, Ἄρες, βροτολοιγέ, μιαιφόνε, τειχεσιπλῆτα.
 
-20. ↑ <#cite_ref-20> Cf. Aristotle, /Poetics/, capp. xix.-xxii.; Waitz,
+20. ↑  Cf. Aristotle, /Poetics/, capp. xix.-xxii.; Waitz,
     /Aristotelis Organon/, vol. i. pp. 323 sq.; Steinthal, /Gesch. des
     Sprachwiss./, pp. 285 sqq.; J. Vahlen, /Aristoteles Lehre von der
     Rangfolge der Theile der Tragœdie/, in /Symbola Philologorum
     Bonnensium/, pp. 180 sqq.
-21. ↑ <#cite_ref-21> Aristotle (/De Interp./, cap. iv.) defines λόγος as
+21. ↑  Aristotle (/De Interp./, cap. iv.) defines λόγος as
     "significant sound, whereof any one part is separately significant
     as an expression, but not as an affirmation." Cf. Schmidt,
     /Beiträge/, pp. 218 sqq.; Steinthal, /Sprachwiss. bei den Gr. und
     Röm./, pp. 568 sqq.; Lersch, /Sprachphilosophie/, Pt. II., /passim/.
-22. ↑ <#cite_ref-22> Directed against the Stoics, who made the
+22. ↑  Directed against the Stoics, who made the
     προσηγορία
-    <https://en.wiktionary.org/wiki/%CF%80%CF%81%CE%BF%CF%83%CE%B7%CE%B3%CE%BF%CF%81%CE%AF%CE%B1> a distinct part of speech.
-23. ↑ <#cite_ref-23> Aristotle (/De Interp./, cap. ii.) says: "A noun is
+     a distinct part of speech.
+23. ↑  Aristotle (/De Interp./, cap. ii.) says: "A noun is
     a sound significant according to convention (θέσις
-    <https://en.wiktionary.org/wiki/%CE%B8%CE%AD%CF%83%CE%B9%CF%82> =
+     =
     position), timeless, whereof no part is separately significant." Cf.
     Schmidt, /Beiträge/, p. 227 sqq.
-24. ↑ <#cite_ref-24> Γενική
-    <https://en.wiktionary.org/wiki/%CE%B3%CE%B5%CE%BD%CE%B9%CE%BA%CE%AE>, on no account to be rendered by /genitivus/ (genitive), as the Romans did. Vid. Max Müller, /Lectures/, 1st Series, p. 180 sq. (Eng. edit.); Schmidt, /Beiträge/, pp. 320 sqq.
-25. ↑ <#cite_ref-25> Cf. Aristotle, /Categ./, cap. v.
-26. ↑ <#cite_ref-26> Cf. Aristotle, /Categ./, cap. i.: "Things which
+24. ↑  Γενική
+    , on no account to be rendered by /genitivus/ (genitive), as the Romans did. Vid. Max Müller, /Lectures/, 1st Series, p. 180 sq. (Eng. edit.); Schmidt, /Beiträge/, pp. 320 sqq.
+25. ↑  Cf. Aristotle, /Categ./, cap. v.
+26. ↑  Cf. Aristotle, /Categ./, cap. i.: "Things which
     have a common name, but whereof the notions corresponding to that
     name are different, are said to be /homonymous/."
-27. ↑ <#cite_ref-27> Aristotle (/De Interp./, cap. iii.) says: "A Verb
+27. ↑  Aristotle (/De Interp./, cap. iii.) says: "A Verb
     is that which adds a time-specification, of which no part separately
     signifies anything, and which is always asserted of something else."
     Cf. Schmidt, /Beiträge/, pp. 344 sqq.; Harris, /Hermes/, Book I.
     cap. 6.
-28. ↑ <#cite_ref-28> Διάθεσις
-    <https://en.wiktionary.org/wiki/%CE%B4%CE%B9%CE%AC%CE%B8%CE%B5%CF%83%CE%B9%CF%82>, the word which Roman stupidity rendered by /Vox/ (voice).
-29. ↑ <#cite_ref-29> It was not /subscribed/ till the twelfth century of
+28. ↑  Διάθεσις
+    , the word which Roman stupidity rendered by /Vox/ (voice).
+29. ↑  It was not /subscribed/ till the twelfth century of
     our era. Vid. Kühner, /Ausführ. Gram. der Gr. Spr./, vol. i. p. 59,
     note (2nd edit.) Chœroboskos (/Bekker, Anec. Græca/, vol. p. 1186)
     says: "It must be understood that grammarians, whose attention is
@@ -604,60 +516,60 @@ actual existence, show also order: they are these, ἐπεί, ἐπείπερ,
     stickle for accuracy, say that it is pronounced, but is not
     distinctly heard on account of the length of the [preceding] long
     vowels."
-30. ↑ <#cite_ref-30> The ancient ἄρθρον included both the article and
+30. ↑  The ancient ἄρθρον included both the article and
     the relative pronoun. Cf. Lersch, /Sprachphilosophie/, Pt. II. pp.
     132 sqq.; Steinthal, /Sprachw. bei den Gr. und Röm./, pp. 660 sqq.;
     Harris, /Hermes/, Bk. II., cap. i.
-31. ↑ <#cite_ref-31> Lersch, Pt. II. /passim:/ Steinthal, pp. 663 sqq.;
+31. ↑  Lersch, Pt. II. /passim:/ Steinthal, pp. 663 sqq.;
     Harris, /Hermes/, Bk. I. cap. v.
-32. ↑ <#cite_ref-32> Lersch, /passim;/ Steinthal, 671 sqq.; Harris,
+32. ↑  Lersch, /passim;/ Steinthal, 671 sqq.; Harris,
     /Hermes/, Bk. II. cap. iii.
-33. ↑ <#cite_ref-33> Lersch, /passim;/ Steinthal, 672; Harris, /Hermes/,
+33. ↑  Lersch, /passim;/ Steinthal, 672; Harris, /Hermes/,
     Bk. I. cap. xi.; Schmidt, /Beiträge/, pp. 485 sqq.
-34. ↑ <#cite_ref-34> Aristotle, /Poet./, cap. xx.; Lersch, /passim;/
+34. ↑  Aristotle, /Poet./, cap. xx.; Lersch, /passim;/
     Steinthal, pp. 673 sqq.; Harris. /Hermes/, Bk. II. cap. ii.
 
 [3
-<https://en.wikisource.org/wiki/Page%3AThe_grammar_of_Dionysios_Thrax.djvu/7>]
+]
 [4
-<https://en.wikisource.org/wiki/Page%3AThe_grammar_of_Dionysios_Thrax.djvu/8>]
+]
 [5
-<https://en.wikisource.org/wiki/Page%3AThe_grammar_of_Dionysios_Thrax.djvu/9>]
+]
 [6
-<https://en.wikisource.org/wiki/Page%3AThe_grammar_of_Dionysios_Thrax.djvu/10>]
+]
 [7
-<https://en.wikisource.org/wiki/Page%3AThe_grammar_of_Dionysios_Thrax.djvu/11>]
+]
 [8
-<https://en.wikisource.org/wiki/Page%3AThe_grammar_of_Dionysios_Thrax.djvu/12>]
+]
 [9
-<https://en.wikisource.org/wiki/Page%3AThe_grammar_of_Dionysios_Thrax.djvu/13>]
+]
 [10
-<https://en.wikisource.org/wiki/Page%3AThe_grammar_of_Dionysios_Thrax.djvu/14>]
+]
 [11
-<https://en.wikisource.org/wiki/Page%3AThe_grammar_of_Dionysios_Thrax.djvu/15>]
+]
 [12
-<https://en.wikisource.org/wiki/Page%3AThe_grammar_of_Dionysios_Thrax.djvu/16>]
+]
 [13
-<https://en.wikisource.org/wiki/Page%3AThe_grammar_of_Dionysios_Thrax.djvu/17>]
+]
 [14
-<https://en.wikisource.org/wiki/Page%3AThe_grammar_of_Dionysios_Thrax.djvu/18>]
+]
 [15
-<https://en.wikisource.org/wiki/Page%3AThe_grammar_of_Dionysios_Thrax.djvu/19>]
+]
 [16
-<https://en.wikisource.org/wiki/Page%3AThe_grammar_of_Dionysios_Thrax.djvu/20>]
+]
 Retrieved from
-"https://en.wikisource.org/w/index.php?title=The_grammar_of_Dionysios_Thrax&oldid=8841218 <https://en.wikisource.org/w/index.php?title=The_grammar_of_Dionysios_Thrax&oldid=8841218>"
+"https://en.wikisource.org/w/index.php?title=The_grammar_of_Dionysios_Thrax&oldid=8841218 "
 Authority control
-<https://en.wikisource.org/wiki/Wikisource:Authority_control>	
+	
 
   * Open Library
-    <https://en.wikipedia.org/wiki/Open_Library>: OL13509413M
-    <http://openlibrary.org/books/OL13509413M>
+    : OL13509413M
+    
   * Internet Archive
-    <https://en.wikipedia.org/wiki/Internet_Archive>: grammarofdionysi00dionuoft <http://www.archive.org/details/grammarofdionysi00dionuoft>
+    : grammarofdionysi00dionuoft 
   *  English Wikisource
-    <https://en.wikisource.org/wiki/Wikisource:Authority_control>:
-    2568155 <https://en.wikisource.org/w/index.php?curid=2568155>
+    :
+    2568155 
 
 Expand
 Copyright.svg PD-icon.svg This work is a translation and has a separate
@@ -666,7 +578,7 @@ content.
 Original: 	
 
 This work was published before January 1, 1927, and is in the *public
-domain <https://en.wikipedia.org/wiki/Public_domain>* worldwide because
+domain * worldwide because
 the author died at least 100 years ago.
 
  
@@ -674,26 +586,26 @@ Public domainPublic domainfalsefalse
 Translation: 	
 
 This work was published before January 1, 1927, and is in the *public
-domain <https://en.wikipedia.org/wiki/Public_domain>* worldwide because
+domain * worldwide because
 the author died at least 100 years ago.
 
  
 Public domainPublic domainfalsefalse
 
-Categories <https://en.wikisource.org/wiki/Special:Categories>:
+Categories :
 
   * Validated texts
-    <https://en.wikisource.org/wiki/Category:Validated_texts>
-  * 1874 works <https://en.wikisource.org/wiki/Category:1874_works>
-  * PD-old <https://en.wikisource.org/wiki/Category:PD-old>
-  * Grammar <https://en.wikisource.org/wiki/Category:Grammar>
+    
+  * 1874 works 
+  * PD-old 
+  * Grammar 
   * Works originally in Greek
-    <https://en.wikisource.org/wiki/Category:Works_originally_in_Greek>
+    
 
 Hidden category:
 
   * Main pages with authority control data
-    <https://en.wikisource.org/wiki/Category:Main_pages_with_authority_control_data>
+    
 
 
     Navigation menu
@@ -701,140 +613,140 @@ Hidden category:
 Personal tools
 
   * Not logged in
-  * Talk <https://en.wikisource.org/wiki/Special:MyTalk>
-  * Contributions <https://en.wikisource.org/wiki/Special:MyContributions>
+  * Talk 
+  * Contributions 
   * Create account
-    <https://en.wikisource.org/w/index.php?title=Special:CreateAccount&returnto=The+grammar+of+Dionysios+Thrax>
+    
   * Log in
-    <https://en.wikisource.org/w/index.php?title=Special:UserLogin&returnto=The+grammar+of+Dionysios+Thrax>
+    
 
 Namespaces
 
-  * Page <https://en.wikisource.org/wiki/The_grammar_of_Dionysios_Thrax>
+  * Page 
   * Source
-    <https://en.wikisource.org/wiki/Index:The_grammar_of_Dionysios_Thrax.djvu>
+    
   * Discussion
-    <https://en.wikisource.org/w/index.php?title=Talk:The_grammar_of_Dionysios_Thrax&action=edit&redlink=1>
+    
 
 English
 
 Views
 
-  * Read <https://en.wikisource.org/wiki/The_grammar_of_Dionysios_Thrax>
+  * Read 
   * Edit
-    <https://en.wikisource.org/w/index.php?title=The_grammar_of_Dionysios_Thrax&action=edit>
+    
   * View history
-    <https://en.wikisource.org/w/index.php?title=The_grammar_of_Dionysios_Thrax&action=history>
+    
 
 More
 
-  * Purge <#>
-  * Hard purge <#>
-  * Null edit <#>
+  * Purge 
+  * Hard purge 
+  * Null edit 
 
 
       Search
 
-<https://en.wikisource.org/wiki/Main_Page>
+
 Navigation
 
-  * Main Page <https://en.wikisource.org/wiki/Main_Page>
+  * Main Page 
   * Community portal
-    <https://en.wikisource.org/wiki/Wikisource:Community_portal>
+    
   * Central discussion
-    <https://en.wikisource.org/wiki/Wikisource:Scriptorium>
-  * Recent changes <https://en.wikisource.org/wiki/Special:RecentChanges>
-  * Subject index <https://en.wikisource.org/wiki/Portal:Portals>
+    
+  * Recent changes 
+  * Subject index 
   * Authors
-    <https://en.wikisource.org/wiki/Category:Authors_by_alphabetical_order>
-  * Random work <https://en.wikisource.org/wiki/Special:RandomRootpage/Main>
+    
+  * Random work 
   * Random author
-    <https://en.wikisource.org/wiki/Special:RandomRootpage/Author>
+    
   * Random transcription
-    <https://en.wikisource.org/wiki/Special:RandomRootpage/Index>
-  * Help <https://en.wikisource.org/wiki/Help:Contents>
+    
+  * Help 
   * Donate
-    <https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikisource.org&uselang=en>
+    
 
-Display Options ? <https://en.wikisource.org/wiki/Help:Layout>
+Display Options ? 
 
-  * Layout 1 <#>
-  * Default layouts on <#>
-  * Page links beside text <#>
-  * Page links displayed <#>
-  * Use serif fonts <#>
+  * Layout 1 
+  * Default layouts on 
+  * Page links beside text 
+  * Page links displayed 
+  * Use serif fonts 
 
 Tools
 
   * What links here
-    <https://en.wikisource.org/wiki/Special:WhatLinksHere/The_grammar_of_Dionysios_Thrax>
+    
   * Related changes
-    <https://en.wikisource.org/wiki/Special:RecentChangesLinked/The_grammar_of_Dionysios_Thrax>
-  * Special pages <https://en.wikisource.org/wiki/Special:SpecialPages>
+    
+  * Special pages 
   * Permanent link
-    <https://en.wikisource.org/w/index.php?title=The_grammar_of_Dionysios_Thrax&oldid=8841218>
+    
   * Page information
-    <https://en.wikisource.org/w/index.php?title=The_grammar_of_Dionysios_Thrax&action=info>
+    
   * Cite this page
-    <https://en.wikisource.org/w/index.php?title=Special:CiteThisPage&page=The_grammar_of_Dionysios_Thrax&id=8841218&wpFormIdentifier=titleform>
+    
   * Wikidata item
-    <https://www.wikidata.org/wiki/Special:EntityPage/Q56804689>
+    
 
 Download/print
 
   * Printable version
-    <https://en.wikisource.org/w/index.php?title=The_grammar_of_Dionysios_Thrax&printable=yes>
+    
   * Download EPUB
-    <https://ws-export.wmcloud.org/?format=epub&lang=en&page=The_grammar_of_Dionysios_Thrax>
+    
   * Download MOBI
-    <https://ws-export.wmcloud.org/?format=mobi&lang=en&page=The_grammar_of_Dionysios_Thrax>
+    
   * Download PDF
-    <https://ws-export.wmcloud.org/?format=pdf&lang=en&page=The_grammar_of_Dionysios_Thrax>
+    
   * Other formats
-    <https://ws-export.wmcloud.org/?lang=en&title=The_grammar_of_Dionysios_Thrax>
+    
 
 In other projects
 
-  * Wikipedia <https://en.wikipedia.org/wiki/The_Art_of_Grammar>
+  * Wikipedia 
 
 In other languages
 
   * Ελληνικά
-    <https://el.wikisource.org/wiki/%CE%A4%CE%AD%CF%87%CE%BD%CE%B7_%CE%93%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AE>
+    
 
 Edit links
-<https://www.wikidata.org/wiki/Special:EntityPage/Q56804689#sitelinks-wikisource>
+
 
   * This page was last edited on 29 September 2018, at 04:14.
   * Text is available under the Creative Commons Attribution-ShareAlike
-    License <https://creativecommons.org/licenses/by-sa/3.0/>;
+    License ;
     additional terms may apply. By using this site, you agree to the
-    Terms of Use <https://wikimediafoundation.org/wiki/Terms_of_Use> and
-    Privacy Policy. <https://wikimediafoundation.org/wiki/Privacy_policy>
+    Terms of Use  and
+    Privacy Policy. 
 
-  * Privacy policy <https://foundation.wikimedia.org/wiki/Privacy_policy>
-  * About Wikisource <https://en.wikisource.org/wiki/Wikisource:About>
+  * Privacy policy 
+  * About Wikisource 
   * Disclaimers
-    <https://en.wikisource.org/wiki/Wikisource:General_disclaimer>
+    
   * Mobile view
-    <https://en.m.wikisource.org/w/index.php?title=The_grammar_of_Dionysios_Thrax&mobileaction=toggle_view_mobile>
+    
   * Developers
-    <https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute>
-  * Statistics <https://stats.wikimedia.org/#/en.wikisource.org>
+    
+  * Statistics 
   * Cookie statement
-    <https://foundation.wikimedia.org/wiki/Cookie_statement>
+    
 
-  * Wikimedia Foundation <https://wikimediafoundation.org/>
-  * Powered by MediaWiki <https://www.mediawiki.org/>
+  * Wikimedia Foundation 
+  * Powered by MediaWiki 
 
 EPUBfor computers, mobiles, tablets
 
-<https://ws-export.wmcloud.org/?format=epub&lang=en&page=The_grammar_of_Dionysios_Thrax>
+
 MOBIfor Kindles
 
-<https://ws-export.wmcloud.org/?format=mobi&lang=en&page=The_grammar_of_Dionysios_Thrax>
+
 PDFfor large screens and printing
 
-<https://ws-export.wmcloud.org/?format=pdf&lang=en&page=The_grammar_of_Dionysios_Thrax>Looking for a different format? <https://ws-export.wmcloud.org/?lang=en&title=The_grammar_of_Dionysios_Thrax>
+Looking for a different format? 
 Something went wrong
 Dismiss
