@@ -1,0 +1,168 @@
+01.h1@grc ΠΕΡΙ ΓΡΑΜΜΑΤΙΚΗΣ.
+01.h1@en On Grammar. (γραμματική).
+01.01.01@grc Γραμματική ἐστιν ἐμπειρία τῶν παρὰ ποιηταῖς τε καὶ συγγραφεῦσιν ὡς ἐπὶ τὸ πολὺ λεγομένων. 
+01.01.01@en Grammar is an experimental knowledge (ἐμπειρία) of the usages of language as generally current among poets and prose writers.
+01.01.02@grc Μέρη δὲ αὐτῆς εἰσὶν ἕξ·
+01.01.02@en It is divided into six parts:
+01.01.03@grc πρῶτον ἀνάγνωσις ἐντριβὴς κατὰ προσῳδίαν, εύτερον ἐξήγησις κατὰ τοὺς ἐνυπάρχοντας ποιητικοὺς τρόπους, τρίτον γλωσσῶν τε καὶ ἱστοριῶν πρόχειρος ἀπόδοσις, τέταρτον ἐτυμολογίας εὕρεσις, πέμπτον ἀναλογίας ἐκλογισμός, ἕκτον κρίσις ποιημάτων, ὃ δὴ κάλλιστόν ἐστι πάντων τῶν ἐν τῇ τέχνῃ.
+01.01.03@en trained reading with due regard to Prosody, explanation according to poetical figures, ready statement of dialectical peculiarities, and allusions (ἱστορίαι), discovery of Etymology, an accurate account of analogies, criticism  of poetical productions, which is the noblest part of grammatic art.
+02.h1@grc ΠΕΡΙ ΑΝΑΓΝΩΣΕΩΣ.
+02.h1@en On Reading (ἀνάγνωσις). 
+02.01.01@grc Ἀνάγνωσίς ἐστι ποιημάτων ἢ συγγραμμάτων ἀδιάπτωτος προφορά. 
+02.01.01@en Reading is the rendering of poetic or prose productions without stumbling or hesitancy.
+02.01.02@grc Ἀναγνωστέον δὲ καθ᾽ ὑπόκρισιν, κατὰ προσῳδίαν, κατὰ διαστολήν· 
+02.01.02@en It must be done with due regard to expression, prosody, and pauses.
+02.01.03@grc ἐκ μὲν γὰρ τῆς ὑποκρίσεως τὴν ἀρετήν, ἐκ δὲ τῆς προσῳδίας τὴν τέχνην, ἐκ δὲ τῆς διαστολῆς τὸν περιεχόμενον νοῦν ὁρῶμεν·
+02.01.03@en Through the expression  we learn the merit (ἀρετή) of the piece; from the prosody, the art of the reader; and from the pauses, the meaning intended to be conveyed.
+02.01.04@grc ἵνα τὴν μὲν τραγῳδίαν ἡρωϊκῶς ἀναγνῶμεν, τὴν δὲ κωμῳδίαν βιωτικῶς, τὰ δὲ ἐλεγεῖα λιγυρῶς, τὸ δὲ ἔπος ἐντόνως, τὴν δὲ λυρικὴν ποίησιν ἐμμελῶς, τοὺς δὲ οἴκτους ὑφειμένως καὶ γοερῶς.
+02.01.04@en In this way we read tragedy heroically, comedy conversationally, elegiacs thrillingly, epics sustainedly, lyric poetry musically, and dirges softly and plaintively.
+02.01.05@grc τὰ γὰρ μὴ παρὰ τὴν τούτων γινόμενα παρατήρησιν καὶ τὰς τῶν ποιητῶν ἀρετὰς καταῤῥίπτει καὶ τὰς ἕξεις τῶν ἀναγιγνωσκόντων καταγελάστους παρίστησι.
+02.01.05@en Any reading done without due observance of these rules degrades the merits of the poets and makes the habits of readers ridiculous.
+03.h1@grc ΠΕΡΙ ΤΟΝΟΥ.
+03.h1@en On Tone (τόνος).
+03.01.01@grc Τόνος ἐστὶ φωνῆς ἀπήχησις ἐναρμονίου, ἢ κατὰ ἀνάτασιν ἐν τῇ ὀξείᾳ, ἢ κατὰ ὁμαλισμὸν ἐν τῇ βαρείᾳ, ἢ κατά περίκλασιν ἐν τῇ περισπωμένῃ.
+03.01.01@en Tone is the resonance of a voice endowed with harmony. It is heightened in the acute, balanced in the grave, and broken in the circumflex.
+04.h1@grc ΠΕΡΙ ΣΤΙΓΜΗΣ.
+04.h1@en On Punctuation (στιγμή).
+04.01.01@grc Στιγμαί εἰσι τρεῖς, τελεία, μέση, ὑποστιγμή.
+04.01.01@en There are three punctuation marks: the full stop, the semicolon, and the comma. 
+04.01.02@grc καὶ ἡ μὲν τελεία στιγμή ἐστι διανοίας ἀπηρτισμένης σημεῖον, μέση δὲ σημεῖον πνεύματος ἕνεκεν παραλαμβανόμενον, ὑποστιγμὴ δὲ διανοίας μηδέπω ἀπηρτισμένης ἀλλ᾽ ἔτι ἐνδεούσης σημεῖον. 
+04.01.02@en The full stop denotes that the sense is complete; the semicolon is a sign of where to take breath; the comma shows that the sense is not yet complete, but that something further must be added.
+05.h1@grc ΤΙΝΙ ΔΙΑΦΕΡΕΙ ΣΤΙΓΜΗ ΥΠΟΣΤΙΓΜΗΣ;
+05.h1@en Wherein does the full stop differ from the comma?
+05.01.01@grc Χρόνῳ· ἐν μὲν γὰρ τῇ στιγμῇ πολὺ τὸ διάστημα, ἐν δὲ τῇ ὑποστιγμῇ παντελῶς ὀλίγον.
+05.01.01@en In time. At the full stop the pause is long, at the comma, very short.
+
+05.h1@grc ΠΕΡΙ ΡΑΨΩΙΔΙΑΣ. 
+05.h1@en On Rhapsody (ῥαψῳδία).
+05.01.01@grc Ῥαψῳδία ἐστὶ μέρος ποιήματος ἐμπεριειληφός τινα ὑπόθεσιν. 
+05.01.01@en A Rhapsody is a part of a poem including a certain (definite) argument.
+05.01.02@grc εἴρηται δὲ ῥαψῳδία, οἱονεὶ ῥαβδῳδία τις οὖσα, ἀπὸ τοῦ δαφνίνῃ ῥάβδῳ περιερχομένους ᾅδειν τὰ Ὁμήρου ποιήματα.
+05.01.02@en It is called a rhapsody, that is, rhabdody, because those who recited the Homeric poems were girt with a laurel branch (ῥάβδος). 
+06.h1@grc ΠΕΡΙ ΣΤΟΙΧΕΙΟΥ.
+06.h1@en On Elements (στοιχεῖα).
+06.01.01@grc Γράμματά ἐστιν εἴκοσι τέσσαρα ἀπὸ τοῦ *α* μέχρι τοῦ *ω*.
+06.01.01@en There are twenty-four letters from α to ω. 
+06.01.02@grc γράμματα δὲ λέγεται διὰ τὸ γραμμαῖς καὶ ξυσμοῖς τυποῦσθαι· γράψαι γὰρ τὸ ξύσαι παρὰ τοῖς παλαιοῖς, ὡς καὶ παρ᾽ Ὁμήρῳ 
+06.01.02@en They are called letters (γράμματα) from being formed of lines and scratches. For to write (γράψαι), among the ancients, meant to scratch (ξύσαι), as in Homer:
+06.01.03@grc νῦν δέ μ᾽ ἐπιγράψας τάρσον ποδὸς εὔχεαι αὔτως. 
+06.01.03@en νῦν δέ μ᾽ ἐπιγράψας ταρσὸν ποδὸς εὔχεαι αὔτως.
+06.02.01@grc Tὰ δὲ αὐτὰ καὶ στοιχεῖα καλεῖται διὰ τὸ ἔχειν στοῖχόν τινα καὶ τάξιν.
+06.02.01@en They are also called elements (στοιχεῖα) from being in a certain series (στοιχός) or arrangement.
+06.02.02@grc Τούτων φωνήεντα μέν εἰσιν ἑπτά, *α*, *ε*, *η*, *ι*, *ο*, *υ*, *ω*.
+06.02.02@en  Of these letters, seven are /Vowels/: α, ε, η, ι, ο, υ, and ω.
+06.02.03@grc φωνήεντα δὲ λέγεται, διότι φωνὴν ἀφ᾽ ἑαυτῶν ἀποτελεῖ, οἷον *ἆ*, *ἦ*. 
+06.02.03@en They are called vowels (φωνήεντα ) because they form a complete sound (φωνή ) by themselves.
+06.02.04@grc Τῶν δὲ φωνηέντων μακρὰ μέν εἰσι δύο, *η* καὶ *ω*, βραχέα δὲ δύο, *ε* καὶ*ο*, δίχρονα δὲ τρία, *α*, *ι* καὶ *υ*. 
+06.02.04@en Of the vowels, two are /long/, η and ω; two are short, ε and ο; and three are /doubtful/, α, ι, υ.
+06.02.05@grc δίχρονα δὲ λέγεται, ἐπειδὴ ἐκτείνεται καί συστέλλεται. 
+06.02.05@en They are called doubtful because they may be either lengthened or shortened.
+06.02.06@grc Προτακτικὰ φωνήεντα πέντε, *α*, *ε*, *η*, *ο*, *ω*. 
+06.02.06@en Five of the vowels are /prepositive/, α, ε, η, ο, ω.
+06.02.07@grc προτακτικὰ δὲ λέγεται, ὅτι προτασσόμενα τοῦ ι καὶ υ συλλαβὴν ἀποτελεῖ, οἷον αι αυ. 
+06.02.07@en They are called prepositive because, when placed before ι or υ, they form a syllable, as αι, αυ.
+06.02.08@grc ὑποτακτικὰ δύο· ι καὶ υ. 
+06.02.08@en Two are /subjunctive/, ι and υ.
+06.02.09@grc καὶ τὸ υ δὲ ἐνιότε προτακτικόν ἐστι τοῦ ι, ὡς ἐν τῷ μυῖα καὶ ἅρπυια. 
+06.02.09@en Υ is sometimes prepositive to ι, as in μυῖα, ἅρπυια, υἱός, and the like.
+06.02.010@grc δίφθογγοι δέ εἰσιν ἕξ· αι αυ ει ευ οι ου.
+06.02.010@en There are six diphthongs, αι, αυ, ει, ευ, οι, ου.
+06.03.01@grc Σύμφωνα δὲ τὰ λοιπὰ ἑπτακαίδεκα· β γ δ ζ θ κ λ μ ν ξ π ρ σ τ φ χ ψ.
+06.03.01@en The remaining seventeen letters are /Consonants/, β, γ, δ, ζ, θ, κ, λ, μ, ν, ξ, π, ρ, σ, τ, φ, χ, ψ.
+06.03.02@grc σύμφωνα δὲ λέγονται, ὅτι αὐτὰ μὲν καθ᾽ ἑαυτὰ φωνὴν οὐκ ἔχει, συντασσόμενα δὲ μετὰ τῶν φωνηέντων φωνὴν ἀποτελεῖ. 
+06.03.02@en They are called consonants because by themselves they have no sound, but produce a sound only when they are combined with vowels.
+06.03.03@grc τούτων ἡμίφωνα μέν ἐστιν ὀκτώ· ζ ξ ψ λ μ ν ρ σ.
+06.03.03@en Of the consonants, eight are /Semivowels/, ζ, ξ, ψ, λ, μ, ν, ρ, ς.
+06.03.04@grc  ἡμίφωνα δὲ λέγεται, ὅτι παρ᾽ ὅσον ἧττον τῶν φωνηέντων εὔφωνα καθέστηκεν ἔν τε τοῖς μυγμοῖς καὶ σιγμοῖς.
+06.03.04@en They are called semivowels because, being less easily sounded than the vowels, when attempted to be pronounced alone, they result in hisses and mumblings.
+06.03.05@grc  ἄφωνα δέ ἐστιν ἐννέα· β γ δ κ π τ θ φ χ. 
+06.03.05@en There are nine /Mutes/, β, γ, δ, θ, κ, π, τ, φ, χ.
+06.03.06@grc ἄφωνα δὲ λέγεται, ὅτι μᾶλλον τῶν ἄλλων ἐστὶν κακόφωνα, ὥσπερ ἄφωνον λέγομεν τὸν τραγῳδὸν τὸν κακόφωνον.
+06.03.06@en They are called mutes because they are more disagreeable in sound than the others, just as we say that a tragedian with a disagreeable voice is mute (ἄφωνος  = voiceless).
+06.03.07@grc τούτων ψιλὰ μέν ἐστι τρία, κ π τ, δασέα τρία, θ φ χ, μέσα δὲ τούτων τρία, β γ δ. 
+06.03.07@en Of these, three are /smooth/, κ, π, τ; three are /rough/, θ, φ, χ, and three are /medial/, β, γ, δ.
+06.03.08@grc μέσα δὲ εἴρηται, ὅτι τῶν μὲν ψιλῶν ἐστι δασύτερα, τῶν δὲ δασέων ψιλότερα. 
+06.03.08@en The last are called medials because they are rougher than the smooths, and smoother than the roughs.
+06.03.09@grc καὶ ἔστι τὸ μὲν β μέσον τοῦ π καὶ φ, τὸ δὲ γ μέσον τοῦ κ καὶ χ, τὸ δὲ δ μέσον τοῦ θ καὶ τ.
+06.03.09@en And β is the medial between π and φ, γ between κ and χ, and δ between τ and θ.
+06.03.010@grc ἀντιστοιχεῖ δὲ τὰ δασέα τοῖς ψιλοῖς, τῷ μὲν π τὸ φ, οὕτως·
+06.03.010@en The roughs stand related to the smooths thus:
+06.03.011@grc ἀλλά μοι εἴφ᾽ ὅπῃ ἔσχες ἰὼν εὐεργέα νῆα
+06.03.011@en φ to π—ἀλλά μοι εἴφ’ ὅπῃ ἔσχες ἰὼν εὐεργέα νῆα·
+06.03.012@grc Τῷ δὲ κ τὸ χ· αὐτίχ᾽ ὁ μὲν χλαῖνάν τε χιτῶνά τε ἕννυτ᾽ Ὀδυσσεύς ε 229 
+06.03.012@en χ to κ—αὐτίχ’ ὁ μὲν χλαῖνάν τε χιτῶνά τε ἕννυτ’ Ὀδυσσεύς·
+06.03.013@grc τὸ δὲ θ τῷ τ· ὣς ἔφαθ᾽· οἱ δ᾽ ἄρα πάντες ἀκὴν ἐγένοντο σιωπῇ 
+06.03.013@en θ to τ—ὣς ἔφαθ’, οἱ δ’ ἄρα πάντες ἀκὴν ἐγένοντο σιωπῇ.
+06.04.01@grc Ἔτι δὲ τῶν συμφώνων διπλᾶ μέν ἐστι τρία· ζ ξ ψ.
+06.04.01@en Again, of the consonants, three are /double/, ζ, ξ, ψ.
+06.04.02@grc διπλᾶ δὲ εἴρηται, ὅτι ἓν ἕκαστον αὐτῶν ἐκ δύο  συμφώνων σύγκειται, τὸ μὲν ζ ἐκ τοῦ σ καὶ δ, τὸ δὲ ξ ἐκ τοῦ κ καὶ σ, τὸ δὲ ψ ἐκ τοῦ π καὶ σ. 
+06.04.02@en They are called double because each one of them is composed of two consonants, ζ of ς and δ,  ξ of κ and σ, ψ of π and σ.
+06.04.03@grc ἀμετάβολα τέσσαρα· λ μ ν ρ.
+06.04.03@en our are /unchangeable/.
+06.04.04@grc ἀμετὰβολα δὲ λέγεται, ὅτι οὐ μεταβάλλει ἐν τοῖς μέλλουσι τῶν ῥημάτων οὐδὲ ἐν ταῖς κλίσεσι τῶν ὀνομάτων.
+06.04.04@en They are called unchangeable because they do not change in the futures of verbs or the inflections of nouns.
+06.04.05@grc τὰ δὲ αὐτὰ καὶ ὑγρὰ καλεῖται.
+06.04.05@en They are likewise called /liquids/. 
+06.04.07@grc Τελικὰ ἀρσενικῶν ὀνομάτων ἀνεπεκτάτων κατ᾽ εὐθεῖαν καὶ ἑνικὴν πτῶσιν στοιχεῖά ἐστι πέντε· ν ξ ρ σ ψ, οἷον Δίων Φοῖνιξ Νέστωρ Πάρις Πέλοψ.
+06.04.07@en The final elements of masculine nouns, in the nominative case, singular number, are five, ν, ξ, ρ, σ, ψ, as Δίων, Φοῖνιξ, Νέστωρ, Πάρις, Πέλοψ).
+06.04.08@grc θηλυκῶν δὲ ὀκτώ· α η ω ν ξ ρ σ ψ, οἷον Μοῦσα Ἑλένη Κλειώ χελιδών ἕλιξ μήτηρ Θέτις λαῖλαψ. 
+06.04.08@en of feminine nouns, eight, α, η, ω, ν, ξ, ρ, σ, ψ, as Μοῦσα, Ἑλένη, Κλειώ, χελιδών, ἕλιξ, μήτηρ, Θέτις, λαῖλαψ; 
+06.04.09@grc οὐδετέρων δὲ ἕξ· α ι ν ρ σ υ, οἷον ἅρμα μέλι δένδρον ὕδωρ δέπας δόρυ.
+06.04.09@en of neuters, six, α, ι, ν, ρ, σ, υ, as ἅρμα, μέλι, δένδρον, ὕδωρ, δέπας, δόρυ. 
+06.04.010@grc τινὲς δὲ προστιθέασι καὶ τὸ ο, οἷον ἄλλο. δυϊκῶν δὲ τρία· α ε ω, οἷον Ἀτρείδα Ἕκτορε φίλω.
+06.04.010@en Some add also ο, as in ἐκεῖνο, τοῦτο, ἄλλο. 
+06.04.011@grc δυϊκῶν δὲ τρία· α ε ω, οἷον Ἀτρείδα Ἕκτορε φίλω.
+06.04.011@en The final elements of duals are three, α, ε, ω, as Ἀτρείδα, Ἕκτορε, φίλω; 
+06.04.012@grc πληθυντικῶν δὲ τέσσαρα· ι σ α η, οἷον φίλοι Ἕκτορες βιβλία βέλη.
+06.04.012@en of plurals, four, ι, ς, α, η, as φίλοι, Ἕκτορες, βιβλία, βέλη.
+08.h1@grc ΠΕΡΙ ΣΥΛΛΑΒΗΣ.
+08.h1@en On Syllables (συλλαβαί). 
+08.01.01@grc Συλλαβή ἐστι κυρίως σύλληψις συμφώνων μετὰ φωνήεντος ἢ φωνηέντων, οἷον καρ, βοῦς· 
+08.01.01@en A Syllable is properly the combination of a vowel with a consonant or consonants, as Κᾶρ, βοῦς.
+08.01.02@grc καταχρηστικῶς δὲ καὶ ἡ ἐξ ἑνὸς φωνήεντος, οἷον α η.
+08.01.02@en Improperly we speak of a syllable as composed of a single vowel, as ἆ, ἦ.
+
+09.h1@grc ΠΕΡΙ ΜΑΚΡΑΣ ΣΥΛΛΑΒΗΣ.
+09.h1@en On Long Syllables (μακραὶ συλλαβαί).
+09.01.01@grc Μακρὰ συλλαβὴ γίνεται κατὰ τρόπους ὀκτώ, φύσει μὲν τρεῖς, θέσει δὲ πέντε.
+09.01.01@en A long syllable may come about in eight ways, three by nature and five by position: 
+09.01.02@grc καὶ φύσει μὲν ἤτοι ὅτ᾽ ἂν διὰ τῶν μακρῶν στοιχείων ἐκφέρηται, οἷον ἥρως· ἢ ὅτ᾽ ἂν ἔχῃ ἕν τι τῶν διχρόνων κατ᾽ ἔκτασιν παραλαμβανόμενον, οἷον Ἄρης· ἢ ὅτ᾽ ἂν ἔχῃ μίαν τῶν διφθόγγων, οἷον Αἴας.
+09.01.02@en by nature, when it is represented by the long elements, as ἥρως—or when one of the doubtful elements is assumed as long, as Ἄρης—or when it contains one of the diphthongs, as Αἴας;
+09.01.03@grc θέσει δὲ ἤτοι ὅτ᾽ ἂν εἰς δύο σύμφωνα λήγῃ, οἷον ἅλς· ἢ ὅτ᾽ ἂν βραχεῖ ἢ βραχυνομένῳ φωνήεντι ἐπιφέρηται δύο σύμφωνα, οἷον ἀγρός· ἢ ὅτ᾽ ἂν εἰς ἁπλοῦν σύμφωνον λήγῃ καὶ τὴν ἑξῆς ἔχῃ ἀπὸ συμφώνου ἀρχομένην, οἷον ἔργον· ἢ ὅτ᾽ ἂν διπλοῦν σύμφωνον ἐπιφέρηται, οἷον ἔξω· ἢ ὅτ᾽ ἂν διπλοῦν σύμφωνον λήγῃ, οἷον ἅπαξ.
+09.01.03@en by position, either when it ends in two consonants, as ἅλς—or when a short or shortened vowel is followed by two consonants, as ἀργός—or when it ends in a single consonant and the next syllable begins with a consonant, as ἔργον—or when it is followed by a double consonant, as ἔξω—or when it ends in a double consonant, as ἅπαξ.
+
+10.h1@grc ΠΕΡΙ ΒΡΑΧΕΙΑΣ ΣΥΛΛΑΒΗΣ.
+10.h1@en On Short Syllables (βραχεῖαι συλλαβαί).
+
+10.01.01@grc Βραχεῖα συλλαβὴ γίνεται κατὰ τρόπους δύο, ἤτοι ὅτ᾽ ἂν ἔχῃ ἕν τι τῶν φύσει βραχέων, οἷον βρέφος· ἢ ὅτ᾽ ἂν ἔχῃ ἕν τι τῶν διχρόνων κατὰ συστολὴν παραλαμβανόμενον, οἷον Ἄρης.
+10.01.01@en A syllable becomes short in two ways, either when it contains a vowel naturally short, as βρέφος—or when it has a doubtful vowel assumed as short, as Ἄρης. 
+
+11.h1@grc ΠΕΡΙ ΚΟΙΝΗΣ ΣΥΛΛΑΒΗΣ.
+11.h1@en On Common Syllables (κοιναὶ συλλαβαί).
+
+11.01.01@grc Κοινὴ συλλαβὴ γίνεται κατὰ τρόπους τρεῖς, ἤτοι ὅτ᾽ ἂν εἰς φωνῆεν μακρὸν λήγῃ καὶ τὴν ἑξῆς ἔχῃ ἀπὸ φωνήεντος ἀρχομένην, οἷον 
+11.01.01@en A syllable is common in three ways, either when it ends in a long vowel while the next syllable begins with a vowel, as 
+11.02.01@grc ὔ τί μοι αἰτίη ἐσσί· θεοί νύ μοι αἴτιοί εἰσιν  
+11.02.01@en Οὐτί μοι αἰτίη ἐσσί· θεοί νύ μοι αἴτιοί εἰσιν— 
+11.03.01@grc ἢ ὅτἂν βραχεῖ ἢ βραχυνομένῳ φωνήεντι ἐπιφέρηται δύο σύμφωνα, ὧν τὸ μὲν δεύτερον ἀμετάβολον, τὸ δὲ ἡγούμενον καθ᾽ ἓν ἄφωνόν ἐστιν, οἷον 
+11.03.01@en or when a shortened vowel is followed by two consonants, whereof the latter is an unchangeable, while the former is by itself a mute, as 
+11.04.01@grc Πάτροκλέ μοι δειλῇ πλεῖστον κεχαρισμένε θυμῷ·  
+11.04.01@en Πάτροκλέ μοι δειλῇ πλεῖστον κεχαρισμένε θυμῷ— 
+11.05.01@grc ἢ ὅτ᾽ ἂν βραχεῖα οὖσα καταπεραιοῖ εἰς μέρος λόγου καὶ τὴν ἑξῆς ἔχῃ ἀπὸ φωνήεντος ἀρχομένην, οἷον 
+11.05.01@en or when, being short, it stands at the end of a part of speech and the next syllable begins with a vowel, as 
+11.06.01@grc Νέστορα δ᾽ οὐκ ἔλαθεν ἰαχὴ πίνοντά περ ἔμπης.
+11.06.01@en Νέστορα δ’ οὐκ ἔλαθεν ἰαχὴ πίνοντά περ ἔμπης.
+
+12.h1@grc ΠΕΡΙ ΛΕΞΕΩΣ.
+12.h1@en On the Word (λέξις).
+12.01.01@grc Λέξις ἐστὶ μέρος ἐλάχιστον τοῦ κατὰ σύνταξιν λόγου.
+12.01.01@en A Word is the smallest part of an ordered sentence. 
+
+13.h1@grc ΠΕΡΙ ΛΟΓΟΥ.
+13.h1@en On the Sentence (λόγος).
+13.01.01@grc Λόγος δέ ἐστι πεζῆς λέξεως σύνθεσις διάνοιαν αὐτοτελῆ δηλοῦσα. 
+13.01.01@en A Sentence is combination of words, either in prose or in verse, making complete sense.
+13.01.02@grc Τοῦ δὲ λόγου μέρη ἐστὶν ὀκτώ· ὄνομα, ῥῆμα, μετοχή, ἄρθρον, ἀντωνυμία, πρόθεσις, ἐπίρρημα, σύνδεσμος. 
+13.01.02@en  There are eight parts of speech: Noun, Verb, Participle, Article, Pronoun, Preposition, Adverb, and Conjunction.
+13.01.03@grc ἡ γὰρ προσηγορία ὡς εἶδος τῷ ὀνόματι ὑποβέβληται.
+13.01.03@en The proper noun, as a species, is subordinate to the noun. 

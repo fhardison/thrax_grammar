@@ -1,54 +1,11 @@
-1. On Grammar. (γραμματική).
- Grammar is an experimental knowledge (ἐμπειρία) of the usages of language as generally current among poets and prose writers. It is divided into six parts:
-     1°. Trained reading with due regard to Prosody.  
-    2°. Explanation according to poetical figures.
-    3°. Ready statement of dialectical peculiarities 
-    and allusions (ἱστορίαι     ).
-    4°. Discovery of Etymology.
-    5°. An accurate account of analogies.  
-    6°. Criticism  of poetical productions, which is     the noblest part of grammatic art.
- 2. On Reading (ἀνάγνωσις).
- Reading is the rendering of poetic or prose productions without stumbling or hesitancy. It must be done with due regard to expression, prosody, and pauses. Through the expression  we learn the merit (ἀρετή) of the piece; from the prosody, the art of the reader; and from the pauses, the meaning intended to be conveyed. In this way we read tragedy heroically, comedy conversationally, elegiacs thrillingly, epics sustainedly, lyric poetry musically, and dirges softly and plaintively.
-Any reading done without due observance of these rules degrades the merits of the poets and makes the habits of readers ridiculous.
- 3. On Tone (τόνος).
- Tone  is the resonance of a voice endowed with harmony. It is heightened in the acute, balanced in the grave, and broken in the circumflex.
- 4. On Punctuation (στιγμή). 
- There are three punctuation marks: the full stop, the semicolon, and the comma.  The full stop denotes that the sense is complete; the semicolon is a sign of where to take breath; the comma shows that the sense is not yet complete, but that something further must be added.
- 5. Wherein does the full stop differ from the comma?
- (τίνι διαφέρει στιγμὴ ὑποστιγμῆς;) 
-  In time. At the full stop the pause is long, at the comma, very short.
- 6. On Rhapsody (ῥαψῳδία).
- A Rhapsody is a part of a poem including a certain (definite) argument.
-It is called a rhapsody, that is, rhabdody, because those who recited the Homeric poems were girt with a laurel branch (ῥάβδος). 
- 7. On Elements (στοιχεῖα). 
- There are twenty-four letters from α to ω. They are called letters (γράμματα) from being formed of lines and scratches. For to write (γράψαι), among the ancients, meant to scratch (ξύσαι), as in Homer:
- νῦν δέ μ᾽ ἐπιγράψας ταρσὸν ποδὸς εὔχεαι αὔτως.
- They are also called elements (στοιχεῖα) from being in a certain series (στοιχός) or arrangement. Of these letters, seven are /Vowels/: α, ε, η, ι, ο, υ, and ω. They are called vowels (φωνήεντα ) because they form a complete sound (φωνή ) by themselves. Of the vowels, two are /long/, η and ω; two are short, ε and ο; and three are /doubtful/, α, ι, υ. They are called doubtful  because they may be either lengthened or shortened. Five of the vowels are /prepositive/, α, ε, η, ο, ω. They are called prepositive because, when placed before ι or υ, they form a syllable, as αι, αυ. Two are /subjunctive/, ι and υ. Υ is sometimes prepositive to ι, as in μυῖα, ἅρπυια, υἱός, and the like. There are six diphthongs, αι, αυ, ει, ευ, οι, ου. The remaining seventeen letters are /Consonants/, β, γ, δ, ζ, θ, κ, λ, μ, ν, ξ, π, ρ, σ, τ, φ, χ, ψ. They are called consonants because by themselves they have no sound, but produce a sound only when they are combined with vowels.  Of the consonants, eight are /Semivowels/, ζ, ξ, ψ, λ, μ, ν, ρ, ς. They are called semivowels because, being less easily sounded than the vowels, when attempted to be pronounced alone, they result in hisses and mumblings. There are nine /Mutes/, β, γ, δ, θ, κ, π, τ, φ, χ. They are called mutes because they are more disagreeable in sound than the others, just as we say that a tragedian with a disagreeable voice is mute (ἄφωνος  = voiceless). Of these, three are /smooth/, κ, π, τ; three are /rough/, θ, φ, χ, and three are /medial/, β, γ, δ. The last are called medials because they are rougher than the smooths, and smoother than the roughs. And β is the medial between π and φ, γ between κ and χ, and δ between τ and θ. The roughs stand related to the smooths thus:
-     φ to π—ἀλλά μοι εἴφ’ ὅπῃ ἔσχες ἰὼν εὐεργέα νῆα·
-    χ to κ—αὐτίχ’ ὁ μὲν χλαῖνάν τε χιτῶνά τε ἕννυτ’ Ὀδυσσεύς·
-    θ to τ—ὣς ἔφαθ’, οἱ δ’ ἄρα πάντες ἀκὴν ἐγένοντο σιωπῇ.
- Again, of the consonants, three are /double/, ζ, ξ, ψ. They are called double because each one of them is composed of two consonants, ζ of ς and δ,  ξ of κ and σ, ψ of π and σ. Four are /unchangeable/. They are called unchangeable because they do not change in the futures of verbs or the inflections of nouns. They are likewise called /liquids/. The final elements of masculine nouns, in the nominative case, singular number, are five, ν, ξ, ρ, σ, ψ, as Δίων, Φοῖνιξ, Νέστωρ, Πάρις, Πέλοψ); of feminine nouns, eight, α, η, ω, ν, ξ, ρ, σ, ψ, as Μοῦσα, Ἑλένη, Κλειώ, χελιδών, ἕλιξ, μήτηρ, Θέτις, λαῖλαψ; of neuters, six, α, ι, ν, ρ, σ, υ, as ἅρμα, μέλι, δένδρον, ὕδωρ, δέπας, δόρυ. Some add also ο, as in ἐκεῖνο, τοῦτο, ἄλλο. The final elements of duals are three, α, ε, ω, as Ἀτρείδα, Ἕκτορε, φίλω; of plurals, four, ι, ς, α, η, as φίλοι, Ἕκτορες, βιβλία, βέλη.
- 
- 8. On Syllables (συλλαβαί). 
-A Syllable is properly the combination of a vowel 
-with a consonant or consonants, as Κᾶρ, βοῦς. Improperly we speak of a syllable as composed of a single vowel, as ἆ, ἦ.
- 9. On Long Syllables (μακραὶ συλλαβαί).
-A long syllable may come about in eight ways, three by nature and five by position  : by nature, when it is represented by the long elements, as ἥρως—or when one of the doubtful elements is assumed as long, as Ἄρης—or when it contains one of the diphthongs, as Αἴας; by position, either when it ends in two consonants, as ἅλς—or when a short or shortened  vowel is followed by two consonants, as ἀργός—or when it ends in a single consonant and the next syllable begins with a consonant, as ἔργον—or when it is followed by a double consonant, as ἔξω—or when it ends in a double consonant, as ἅπαξ.
- 10. On Short Syllables (βραχεῖαι συλλαβαί).
- A syllable becomes short in two ways, either when it contains a vowel naturally short, as βρέφος—or when it has a doubtful vowel assumed as short, as Ἄρης. 
- 11. On Common Syllables (κοιναὶ συλλαβαί).
- A syllable is common in three ways, either when it ends in a long vowel while the next syllable begins with a vowel, as 
-    Οὐτί μοι αἰτίη ἐσσί· θεοί νύ μοι αἴτιοί εἰσιν— 
-or when a shortened vowel is followed by two consonants, whereof the latter is an unchangeable, while the former is by itself a mute, as 
-    Πάτροκλέ μοι δειλῇ πλεῖστον κεχαρισμένε θυμῷ— 
-or when, being short, it stands at the end of a part of speech and the next syllable begins with a vowel, as 
-    Νέστορα δ’ οὐκ ἔλαθεν ἰαχὴ πίνοντά περ ἔμπης.
- 12. On the Word (λέξις).
+ # On the Word (λέξις).
  A Word is the smallest part of an ordered sentence. 
- 13. On the Sentence (λόγος).
+ 
+ # On the Sentence (λόγος).
  
 A Sentence is combination of words, either in prose or in verse, making complete sense. There are eight parts of speech: Noun, Verb, Participle, Article, Pronoun, Preposition, Adverb, and Conjunction. The proper noun, as a species, is subordinate to the noun. 
-14. On the Noun (ὄνομα).
+
+ # On the Noun (ὄνομα).
 A Noun is a declinable part of speech, signifying something either concrete or abstract (concrete, as stone; abstract, as education); common or proper (common, as man, horse; proper, as Socrates, Plato).  It has five accidents: genders, species, forms, numbers, and cases.
  There are three /Genders/, the masculine, the feminine, and the neuter.
 Some add to these two more, the common and the epicene—common, as man, horse; epicene, as swallow, eagle.
@@ -61,165 +18,43 @@ those compounded of a complete word and an incomplete, as Periklês.
  A /Proper/ noun is one signifying a peculiar substance,  as Homer, Sokrates. An /Appellative/ is one that signifies a common substance, as /man/, /horse/. An /Adjective/ noun is one that is applied homonymously  to proper or appellative nouns, and signifies either praise or blame. It is derived from three sources, from the soul, the body, and external things: from the soul, as /sage/, /licentious;/ from the body, as /swift/, /slow;/ from external things, as /rich/, /poor/. A /Relative/ noun is such as /father/, /son/, /friend/, /right/ (hand). A /quasi-Relative/ is such as /night/, /day/, /death/, /life/. A /Homonym/ is a noun predicated homonymously of many things, as of proper nouns, e.g. /Telamonian Aias/, /Oïlean Aias;/ of aplative nouns, as /sea/-mouse, /land/-mouse. A /Synonym/ is a noun which, by several designations, signifies the same thing, as /glaive/, /sword/, /bludgeon/, /blade/, /brand/. A /Pheronym/ is a name given from some accident, as /Tisamenos/ and /Megapenthes/. A /Dionym/ is a couple of names applied to the same proper noun, as Alexander and Paris, without there being any reciprocity in their signification; e.g., if one is Alexander, it does not follow that he is Paris. An /Eponym/ (also called Dionym) is a noun which, along with another proper noun, is applied to one object, as Poseidón is called Enosichthon, and Apollo, Phœbos. A /National/ name is one showing to what nation an individual belongs, as Phrygian, Galatian. An /Interrogative/ (also called an Inquisitive) is so called from being employed in interrogations, as τίς; (who?)—ποῖος; (of what sort?)—πόσος; (how great?)—πηλίκος; (how old?) An /Indefinite/ is a noun placed in opposition to an Interrogative, as ὅστις (whosoever), ὁποῖος (of whatever sort), ὁπόσος (however great), ὁπηλίκος (of whatever age). An /Anaphoric/ noun (called also an Assimilative, a Demonstrative, or an Attributive) is one signifying similarity, as τοιοῦτος (as great), τηλικοῦτος (as old), τοιοῦτος (such). A /Collective/ noun is one which, in the singular number, signifies a multitude, e.g. δῆμος (people), χορός (chorus), ὄχλος (crowd). A /Distributive/ noun is one having a relation to one out of two or more, as ἕτερος (the other), ἑκάτερος (each), ἕκαστος (every one). An /Inclusive/ noun is one that shows what is contained in it, as δαφνών (laurel-grove), παρθενών (virgin's abode).
 An /Onomatopoetic/ noun is one formed imitatively from the peculiarities of sounds, as φλοῖσβος (dashing), ῥοῖζος (whistling), ὀρυμαγδός (rattle). A /General/ noun is one that can be divided into a number of species, as /animal/, /plant/. A /Special/ noun is one of those into which a genus is divided, e.g. /ox/, /horse/; /vine/, /olive/. An /Ordinal/ is a noun showing order, as /first/, /second/, /third/. A /Numeral/ is a noun signifying number, as /one/, /two/, /three/. A /Participative/ is a noun partaking of a certain substance, as /golden/, /silvern/. An /Independent/ noun is one which is thought by itself, as /God/, /Reason/.
  The /Dispositions/ of the noun are two. Activity and Passivity; Activity, as /the judge/, /the judging/; Passivity, as /judgeable/, /the judged/.
- 15. On the Verb (ῥῆμα).
+
+ # On the Verb (ῥῆμα).
  
 A Verb is an indeclinable word, indicating time, person and number, and showing activity or passivity. The verb has eight accidents: Moods, Dispositions (voices!), Species, Forms, Numbers, Tenses, Persons, Conjugations. There are five /Moods/: Indicative, Imperative, Optative, Subjunctive, and Infinitive. There are three /Dispositions/  : Activity, Passivity, and Mediality—Activity, as τύπτω (I strike); Passivity, as τύπτομαι (I am struck); Mediality, marking partly activity and partly passivity, as πέποιθα (I trust), διέφθορα (I waste), ἐποιησάμην (I became), ἐγραψάμην (I registered). There are two /Species:/ Primitive and Derivative—Primitive, as ἄρδω; Derivative, as ἀρδεύω. There are three /Forms:/ Simple, Compound, and Super-Compound—Simple, as φρονῶ; Compound, as καταφρονῶ; Super-Compound, as ἀντιγονίζω (I Antigonize), φιλιππίζω (I Philippize). There are three /Numbers:/ Singular, Dual, and Plural—Singular, as τύπτω; Dual, as τύπτετον Plural, as τύπτομεν. There are three /Persons:/ First, Second, and Third. The First is the person /from/ whom the assertion is; the Second, the one /to/ whom it is; and the Third, the one /concerning/ whom it is. There are three /Tenses:/ Present, Past, Future. Of these, the Past has four sub-species—Imperfect, Perfect, Pluperfect, and Aorist—which stand in three respective relations: the Present is related to the Imperfect, the Perfect to the Pluperfect, and the Aorist to the Future.
- 16. On Conjugation (συζυγία).
+ 
+ # On Conjugation (συζυγία).
  Conjugation is the consecutive inflection of Verbs. Of Barytone Verbs there are six conjugations, of which the First is characterized by β, φ, π, or πτ, as λείβω, γράφω, τέρπω, κόπτω; the Second by γ, κ, χ, or κτ, as λέγω, πλέκω, τρέχω, τίκτω; the Third by δ, θ, or τ, as ᾄδω, πλήθω, ἀνύτω; the Fourth by ζ or σσ, as φράζω, νύσσω, ὀρύσσω; the Fifth by the four unchangeables, λ, μ, ν, ρ, as πάλλω, νέμω; and the Sixth by a pure, as ἱππεύω, πλέω, βασιλεύω, ἀκούω. Some also introduce a Seventh Conjugation, characterized by ξ and ψ, as ἀλέξω, ἕψω.
- 17. On Circumflexed Verbs (περισπώμενα).
+ 
+ # On Circumflexed Verbs (περισπώμενα).
  Of Circumflexed Verbs there are three Conjugations, of which the First is characterized in the second and third persons by the diphthong ει, as νοῶ, νοεῖς, νοεῖ; the Second by the diphthong ᾳ, as βοῶ, βοᾷς, βοᾷ (the ι being added in writing,  but not pronounced); and the Third by the diphthong οι, as χρυσῶ, χρυσοῖς, χρυσοῖ.
- 18. On Verbs in μι (τὰ εἰς μι).
+ 
+ # On Verbs in μι (τὰ εἰς μι).
  Of Verbs ending in μι there are four conjugations, of which the First is characterized from the first of the Circumflexed Conjugations, as from τιθῶ comes τίθημι; the Second from the second, as from ἱστῶ, ἵστημι; the Third from the third, as from διδῶ, δίδωμι; and the Fourth from the sixth of the Barytone Conjugations, as from πηγνύω, πήγνυμι.
- 19. On the Participle (μετοχή).
+ 
+ # On the Participle (μετοχή).
  A Participle is a word partaking of the nature both of nouns and verbs.
 It has all the accidents which belong to nouns as well as those which belong to verbs, except mood and person.
- 20. On the Article (ἄρθρον).
+ 
+ # On the Article (ἄρθρον).
  An Article is a declinable part of speech prefixed or subjoined to the various cases of nouns, taking, when prefixed, the form ὁ, and, when subjoined, the form ὅς.  . It has three accidents:
 Gender, Number, and Case. The /Genders/ are three, as ὁ ποιητής, ἡ ποίησις, τὸ ποίημα. The /Numbers/ are three: Singular, Dual, and Plural—Singular, as ὁ, ἡ, τό; Dual, as τώ, τά; Plural, as οἱ, αἱ, τά.
 The /Cases/ are—ὁ, τοῦ, τῷ, τόν, ὦ; ἡ, τῆς, τῇ, τήν, ὦ; τό, τοῦ, τῷ, τό, ὦ.
- 21. On the Pronoun (ἀντωνυμία .) 
- A Pronoun is a word assumed instead of a noun, and indicating definite persons. It has six accidents: Person, Gender, Number, Case, Form, and Species.
- 22. On Primitive Pronouns.
- The /Persons/ of the Primitive Pronouns are ἐνώ , σύ, ἴ; those of the Derivative Pronouns, ἐμός, σός, ὅς. The /Genders/ of the Primitive Pronouns are not expressed in speech, but by the indication which they make, as ἐγώ (I), whereas the Genders of the Derivatives are expressed in speech, as ὁ ἐμός, ἡ ἐμή, τὸ ἐμόν. The /Numbers/ of the Primitives are—Singular, ἐγώ, σύ, ἴ; Dual, νῶϊ, σφῶϊ; Plural, ἡμεῖς, ὑμεῖς, σφεῖς:
+
+ # On the Pronoun (ἀντωνυμία .) 
+A Pronoun is a word assumed instead of a noun, and indicating definite persons. It has six accidents: Person, Gender, Number, Case, Form, and Species.
+
+ # On Primitive Pronouns.
+The /Persons/ of the Primitive Pronouns are ἐνώ , σύ, ἴ; those of the Derivative Pronouns, ἐμός, σός, ὅς. The /Genders/ of the Primitive Pronouns are not expressed in speech, but by the indication which they make, as ἐγώ (I), whereas the Genders of the Derivatives are expressed in speech, as ὁ ἐμός, ἡ ἐμή, τὸ ἐμόν. The /Numbers/ of the Primitives are—Singular, ἐγώ, σύ, ἴ; Dual, νῶϊ, σφῶϊ; Plural, ἡμεῖς, ὑμεῖς, σφεῖς:
 those of the Derivatives—Singular, ἐμός, σός, ὅς; Dual, ἐμώ, σώ, ὥ; Plural, ἐμοί, σοί, οἵ. The /Cases/ of the Primitives are—Direct, ἐγώ, σύ, ἴ; Generic, ἐμοῦ, σοῦ, οὗ; Dative, ἐμοί, σοί, οἷ; Accusative, ἐμέ, σέ, ἕ; Vocative, σύ: those of the Derivatives are ἐμός, σός, ὅς; ἐμοῦ, σοῦ, οὗ; ἐμῷ, σῷ, ᾧ· ἐμόν, σόν, ὅν. There are two /Forms:/ Simple and Compound—Simple, ἐμοῦ, σοῦ, οὗ; Compound, ἐμαυτοῦ, σαυτοῦ, ἑαυτοῦ. There are two /Species/, inasmuch as some are Primitive, as ἐγώ, σύ, ἴ, and others Derivative, as are all the Possessives, which are also called Bi-personals. They are thus derived—from Singulars, those designating one possessor, as ἐμοῦ, ἐμός; from Duals, those designating two, as from νῶϊ, νωίτερος; from Plurals, those designating many, as from ἡμεῖς, ἡμέτερος. Of the Pronouns, some are [used] without the article and some with it—without the article, as ἐγώ; with the article, as ὁ ἐμός.
- 23. On Prepositions (πρόθεσις). 
+
+ # On Prepositions (πρόθεσις). 
  A Preposition is a word placed before any of the parts of speech, both in Composition and in Syntax. The number of Prepositions is eighteen, whereof six are monosyllabic, ἐν , εἰς , ἔξ , πρό , πρός , σύν —which are incapable of anastrophé—and twelve are dissyllabic, ἀνά, κατά, διά, μετά, παρά, ἀντί, ἐπί, περί, ἀμφί, ἀπό, ὑπό, ὑπέρ.
- 24. On the Adverb (ἐπίῤῥημα). 
+
+ # On the Adverb (ἐπίῤῥημα). 
  An Adverb is an indeclinable part of speech, said of a verb or added to a verb. Of the Adverbs, some are Simple, and others Compound—Simple, as πάλαι; Compound, as πρόπαλαι. Some are indicative of time, as νῦν, τότε, αὖθις: to these we must subordinate as species those that connote particular times or seasons, as σήμερον, αὔριον, τόφρα, τέως, πηνίκα.
 Some indicate manner, as καλῶς, σοφῶς, δυνατῶς; some, quality, as πύξ, λάξ, βοτρυδόν, ἀγεληδόν; some, quantity, as πολλάκις, ὀλιγάκις, μυριάκις; some, number, as δίς, τρίς, τετράκις; some, place, as ἄνω, κάτω—of these there are three kinds, those signifying /in/ a place, those signifying /to/ a place, and those signifying /from/ a place, as οἴκοι, οἴκαδε, οἴκοθεν. Some Adverbs signify a wish, as εἴθε, αἴθε, ἄβαλε; some express horror, as παπαί, ἰού, φεῦ; some, denial or negation, as οὔ, οὐχί, οὐ δῆτα, οὐδαμῶς; some, agreement, as ναί, ναίχι; some, prohibition, as μή, μὴ δῆτα, μηδαμῶς; some, comparison or similarity, as ὥς, ὥσπερ, ἠΰτε, καθά, καθάτερ ; some, surprise, as βαβαί; some, probability, as ἴσως, τάχα, τυχόν; some, order, as ἑξῆς, ἐφεξῆς, χωρίς; some, congregation, as ἄρδην, ἅμα, ἤλιθα; some, command, as εἶα, ἄγε, φέρε; some, comparison, as μᾶλλον, ἦττον ; some, interrogation, as πόθεν, ποῦ, πηνίκα, πῶς; some, vehemence, as σφόδρα, ἄγαν, πάνυ, μάλιστα; some, coincidence, as ἅμα, ὁμοῦ, ἄμυδις; some are deprecative, as μά; some are asseverative, as νή; some are positive, as ἀγνωστέον, γραπτέον, πλευστέον; some express ratification, as δηλαδή; and some enthusiasm, as εὐοῖ, εὐάν.
- 25. On Conjunctions (σύνδεσμος). 
- A Conjunction is a word binding together a thought in order and filling up the hiatuses of speech. Of conjunctions, some are copulative, some disjunctive, some conjunctive, some præter-conjunctive, some causative, some dubitative, some conclusive, and some expletive. /Copulative/ Conjunctions are those which bind together a discourse which flows on indefinitely: they are these, μέν, δέ, τέ, καί, ἀλλά, ἠμέν, ἠδέ, ἀτάρ, αὐτάρ, ἤτοι. /Disjunctive/ Conjunctions are those which bind the phrase more firmly together, and disjoin the facts expressed: they are these, ἤ, ἤτοι, ἠέ. /Conjunctive/ Conjunctions are those which do not indicate any actual existence, but signify sequence: they are these, εἰ, εἴπερ, εἰδή, εἰδήπερ. The /Præter-conjunctives/ are those which, along with actual existence, show also order: they are these, ἐπεί, ἐπείπερ, ἐπειδή, ἐπειδήπερ . /Causatives/ are those which are taken to express cause: they are these, ἵνα , ὄφρα , ὅπως , ἕνεκα , οὕνεκα , ὅτι , διό , διότι , καθό , καθότι , καθόσον . /Dubitatives/ are those which we are wont to use when we are in doubt; they are these, ἆρα , κἆτα , μῶν . /Inferentials/ are those which lend themselves readily to conclusions and summings-up of demonstrations: they are these, ἄρα , ἀλλά , ἀλλὰ μέν , τοίνυν , τοιγάρτοι , τοιγαροῦν . /Expletives/ are those which are used for the sake of metre or ornament: they are these, δή , ῥά , νύ , ποῦ , τοί , θήν , ἄρ , δῆτα , πέρ , πώ , μήν , ἄν , αὖ , οὖν , κέν , γέ . Some persons add also /Adversatives/, as ἔμπης , ὅμως .
+ 
+ # On Conjunctions (σύνδεσμος). 
+ A Conjunction is a word binding together a thought in order and filling up the hiatuses of speech. Of conjunctions, some are copulative, some disjunctive, some conjunctive, some præter-conjunctive, some causative, some dubitative, some conclusive, and some expletive. /Copulative/ Conjunctions are those which bind together a discourse which flows on indefinitely: they are these, μέν, δέ, τέ, καί, ἀλλά, ἠμέν, ἠδέ, ἀτάρ, αὐτάρ, ἤτοι. /Disjunctive/ Conjunctions are those which bind the phrase more firmly together, and disjoin the facts expressed: they are these, ἤ, ἤτοι, ἠέ. /Conjunctive/ Conjunctions are those which do not indicate any actual existence, but signify sequence: they are these, εἰ, εἴπερ, εἰδή, εἰδήπερ. The /Præter-conjunctives/ are those which, along with actual existence, show also order: they are these, ἐπεί, ἐπείπερ, ἐπειδή, ἐπειδήπερ . /Causatives/ are those which are taken to express cause: they are these, ἵνα , ὄφρα , ὅπως , ἕνεκα , οὕνεκα , ὅτι , διό , διότι , καθό , καθότι , καθόσον . /Dubitatives/ are those which we are wont to use when we are in doubt; they are these, ἆρα , κἆτα , μῶν . /Inferentials/ are those which lend themselves readily to conclusions and summings-up of demonstrations: they are these, ἄρα , ἀλλά , ἀλλὰ μέν , τοίνυν , τοιγάρτοι , τοιγαροῦν. /Expletives/ are those which are used for the sake of metre or ornament: they are these, δή , ῥά , νύ , ποῦ , τοί , θήν , ἄρ , δῆτα , πέρ , πώ , μήν , ἄν , αὖ , οὖν , κέν , γέ . Some persons add also /Adversatives/, as ἔμπης , ὅμως .
  ------------------------------------------------------------------------ 
- 1. ↑  Prosody (προσῳδία     ), in the Greek sense, includes everything designated by diacritical marks — aspiration, accentuation, quantity, and sometimes pauses. Vid. Bekker, /Anecdota Græca/, pp. 679 sqq. ; K. E. A. Schmidt, /Beiträge zur Geschichte der Grammatik/, pp. 181 sqq. Prosody had nothing whatsoever to do with verse-making, although it was related to music.
- 2. ↑  Vid. Waitz, /Aristotelis Organon/, vol. i. pp. 323 sq.
- 3. ↑  Here came in all that we generally understand by     Grammar. The whole of the first part of Lersch's /Sprachphilosophie     der Alten/ is devoted to the question of Analogy and Anomaly.
- 4. ↑  Such Criticism apparently did not include a     discussion of the poetical merits of a piece (κρίνει δὲ τὰ ποιήματα     οὐχ ὅτι καλά ἐστιν ἢ κακά· ποιητοῦ γὰρ ἂν εἴη τὸ τοιοῦτον.)  5. ↑  Expression (ὑπόκρισις     ) is defined as being equivalent to μίμησις  or Imitation.
- 6. ↑  Tone is what we usually call accent. The Latin     /accentus/, however, formed in imitation of the Greek προσῳδία     , was undoubtedly intended to have the same width of meaning as the latter. Vid. Schmidt, /Beiträge/, pp. 190 sqq.
- 7. ↑  On this whole question, vid. Schmidt, /Beiträge/,     pp. 506-570.
- 8. ↑  These terms are hardly accurate; the sequel explains     their meaning.
- 9. ↑  It will be seen that in practice Dionysios     distinguishes only /two/ punctuation marks, the στιγμὴ μέση     (semicolon) being really not one at all.
-10. ↑  Cf. Grote, /Hist. of Greece/, vol. ii. p. 141,     note; Wolf. Proleg., pp. 58 sqq. (Edit. Calvary); K. O. Müller,     /Hist. of Lit. of Ancient Greece/, pp. 33 sqq.
-11. ↑  On Στοιχεῖον, vid. Aristotle, /Metaph./ I. 1 (1026,     b. 12); Bonitz, /Aristotelis Metaph./ pp. 225 sq.; Schmidt,     /Beiträge/, pp. 80 sqq., 126. Aristotle's definition of στοιχεῖον,     as meaning a sound, is: "An element is an indivisible sound, not     applicable, however, to every such sound, but only to those which     are capable of entering into the formation of intelligible speech."     — /Poet./ cap. xx. Cf. Steinthal, /Gesch. der Sprachw. bei den Gr.
-    und Röm./, pp. 248 sq.
-12. ↑  Δίχρονοι      = of twofold time. Cf. Rossbach und Westphal, /Metrik der Griech./, vol. ii. pp. 66 sqq.
-13. ↑  Aristotle, /Poetics/, cap. xx., makes     three divisions of sounds — τό τε φωνῆεν και τὸ ἡμίφωνον καὶ ἄφωνον     — vowels, semivowels, and mutes. Cf. with the whole of Dionysios'     classification, Schleicher, /Compend. der verg. Grammatik der/     /Indoger. Spr./, pp. 54 sqq. /et passim;/ Curtius, /Grundzüge der     griech Etymologie/, pp. 85 sqq.; Max Müller, /Lectures/, 2nd Series,     Lect. III.
-14. ↑  Cf. Aristotle, /Metaph./, A 9 (993^a 5), /v/ 6     (1093^a 20); Kühner, /Ausführ. Gram. der Gr. Spr./, vol. i. p. 55.
-15. ↑  Cf. Aristotle, /Poetics/, cap. xx.; Schmidt,     /Beiträge/, pp. 126-180; Steinthal, /Sprachw. bei den Gr. und Röm./,     p. 254.
-16. ↑  Or diphthong, evidently.
-17. ↑  Position (θέσις     ), in     this connection, does not mean, as is generally supposed, place, but     convention, arbitrary imposition, as opposed to nature (φύσις     ).
-    Vid. Lersch, /Sprachphilosophie/ Pt. I p. 5; Rossbach und Westphal,     /Metrik der Griechen./ vol. ii. p. 74. This shows the utter     absurdity of the rule, laid down in so many Greek and Latin     grammars, that a vowel followed by two consonants is long.
-18. ↑  A short vowel is either ε or ο; a shortened vowel     is a doubtful vowel (α, ι, υ) assumed as short.
-19. ↑  Cf. Hom. /Il./, v. 31:
-         Ὰρες, Ἄρες, βροτολοιγέ, μιαιφόνε, τειχεσιπλῆτα.
- 20. ↑  Cf. Aristotle, /Poetics/, capp. xix.-xxii.; Waitz,     /Aristotelis Organon/, vol. i. pp. 323 sq.; Steinthal, /Gesch. des     Sprachwiss./, pp. 285 sqq.; J. Vahlen, /Aristoteles Lehre von der     Rangfolge der Theile der Tragœdie/, in /Symbola Philologorum     Bonnensium/, pp. 180 sqq.
-21. ↑  Aristotle (/De Interp./, cap. iv.) defines λόγος as     "significant sound, whereof any one part is separately significant     as an expression, but not as an affirmation." Cf. Schmidt,     /Beiträge/, pp. 218 sqq.; Steinthal, /Sprachwiss. bei den Gr. und     Röm./, pp. 568 sqq.; Lersch, /Sprachphilosophie/, Pt. II., /passim/.
-22. ↑  Directed against the Stoics, who made the     προσηγορία      a distinct part of speech.
-23. ↑  Aristotle (/De Interp./, cap. ii.) says: "A noun is     a sound significant according to convention (θέσις      =     position), timeless, whereof no part is separately significant." Cf.
-    Schmidt, /Beiträge/, p. 227 sqq.
-24. ↑  Γενική     , on no account to be rendered by /genitivus/ (genitive), as the Romans did. Vid. Max Müller, /Lectures/, 1st Series, p. 180 sq. (Eng. edit.); Schmidt, /Beiträge/, pp. 320 sqq.
-25. ↑  Cf. Aristotle, /Categ./, cap. v.
-26. ↑  Cf. Aristotle, /Categ./, cap. i.: "Things which     have a common name, but whereof the notions corresponding to that     name are different, are said to be /homonymous/." 27. ↑  Aristotle (/De Interp./, cap. iii.) says: "A Verb     is that which adds a time-specification, of which no part separately     signifies anything, and which is always asserted of something else."     Cf. Schmidt, /Beiträge/, pp. 344 sqq.; Harris, /Hermes/, Book I.
-    cap. 6.
-28. ↑  Διάθεσις     , the word which Roman stupidity rendered by /Vox/ (voice).
-29. ↑  It was not /subscribed/ till the twelfth century of     our era. Vid. Kühner, /Ausführ. Gram. der Gr. Spr./, vol. i. p. 59,     note (2nd edit.) Chœroboskos (/Bekker, Anec. Græca/, vol. p. 1186)     says: "It must be understood that grammarians, whose attention is     directed to pronunciation, say that the ι is unpronounced when it is     found with (follows) α long, η, or ω, * * * *; but musicians, who     stickle for accuracy, say that it is pronounced, but is not     distinctly heard on account of the length of the [preceding] long     vowels." 30. ↑  The ancient ἄρθρον included both the article and     the relative pronoun. Cf. Lersch, /Sprachphilosophie/, Pt. II. pp.
-    132 sqq.; Steinthal, /Sprachw. bei den Gr. und Röm./, pp. 660 sqq.;     Harris, /Hermes/, Bk. II., cap. i.
-31. ↑  Lersch, Pt. II. /passim:/ Steinthal, pp. 663 sqq.;     Harris, /Hermes/, Bk. I. cap. v.
-32. ↑  Lersch, /passim;/ Steinthal, 671 sqq.; Harris,     /Hermes/, Bk. II. cap. iii.
-33. ↑  Lersch, /passim;/ Steinthal, 672; Harris, /Hermes/,     Bk. I. cap. xi.; Schmidt, /Beiträge/, pp. 485 sqq.
-34. ↑  Aristotle, /Poet./, cap. xx.; Lersch, /passim;/     Steinthal, pp. 673 sqq.; Harris. /Hermes/, Bk. II. cap. ii.
- [3 ] [4 ] [5 ] [6 ] [7 ] [8 ] [9 ] [10 ] [11 ] [12 ] [13 ] [14 ] [15 ] [16 ] Retrieved from "https://en.wikisource.org/w/index.php?title=The_grammar_of_Dionysios_Thrax&oldid=8841218 " Authority control 	 
-  * Open Library     : OL13509413M     
-  * Internet Archive     : grammarofdionysi00dionuoft 
-  *  English Wikisource     :
-    2568155 
- Expand Copyright.svg PD-icon.svg This work is a translation and has a separate copyright status to the applicable copyright protections of the original content.
-Original: 	 
-This work was published before January 1, 1927, and is in the *public domain * worldwide because the author died at least 100 years ago.
-  
-Public domainPublic domainfalsefalse Translation: 	 
-This work was published before January 1, 1927, and is in the *public domain * worldwide because the author died at least 100 years ago.
-  
-Public domainPublic domainfalsefalse 
-Categories :
-   * Validated texts     
-  * 1874 works 
-  * PD-old 
-  * Grammar 
-  * Works originally in Greek     
- Hidden category:
-   * Main pages with authority control data     
- 
-    Navigation menu 
-Personal tools 
-  * Not logged in   * Talk 
-  * Contributions 
-  * Create account     
-  * Log in     
- Namespaces 
-  * Page 
-  * Source     
-  * Discussion     
- English 
-Views 
-  * Read 
-  * Edit     
-  * View history     
- More 
-  * Purge 
-  * Hard purge 
-  * Null edit 
- 
-      Search 
- Navigation 
-  * Main Page 
-  * Community portal     
-  * Central discussion     
-  * Recent changes 
-  * Subject index 
-  * Authors     
-  * Random work 
-  * Random author     
-  * Random transcription     
-  * Help 
-  * Donate     
- Display Options ? 
-   * Layout 1 
-  * Default layouts on 
-  * Page links beside text 
-  * Page links displayed 
-  * Use serif fonts 
- Tools 
-  * What links here     
-  * Related changes     
-  * Special pages 
-  * Permanent link     
-  * Page information     
-  * Cite this page     
-  * Wikidata item     
- Download/print 
-  * Printable version     
-  * Download EPUB     
-  * Download MOBI     
-  * Download PDF     
-  * Other formats     
- In other projects 
-  * Wikipedia 
- In other languages 
-  * Ελληνικά     
- Edit links 
-   * This page was last edited on 29 September 2018, at 04:14.
-  * Text is available under the Creative Commons Attribution-ShareAlike     License ;     additional terms may apply. By using this site, you agree to the     Terms of Use  and     Privacy Policy. 
-   * Privacy policy 
-  * About Wikisource 
-  * Disclaimers     
-  * Mobile view     
-  * Developers     
-  * Statistics 
-  * Cookie statement     
-   * Wikimedia Foundation 
-  * Powered by MediaWiki 
- EPUBfor computers, mobiles, tablets 
- MOBIfor Kindles 
- PDFfor large screens and printing 
-Looking for a different format? 
-Something went wrong Dismiss 
