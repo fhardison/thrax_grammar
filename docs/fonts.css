@@ -1,0 +1,20 @@
+https://amindforlanguage.com/thrax_grammar/
+
+@font-face {
+  font-family: GentiumPlus;
+  src: url(https://amindforlanguage.com/thrax_grammar/GentiumPlus-Regular.woff2);
+}
+@font-face {
+  font-family: GentiumPlus;
+  font-style: italic;
+  src: url(https://amindforlanguage.com/thrax_grammar/GentiumPlus-Italic.woff2);
+}
+@font-face {
+    font-family: GentiumPlus;
+    font-style: bold;
+    src: url(https://amindforlanguage.com/thrax_grammar/GentiumPlus-Bold.woff2);
+}
+
+body {
+    font-family: GentiumPlus, serif;
+}

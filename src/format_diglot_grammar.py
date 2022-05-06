@@ -22,11 +22,16 @@ HEADER = """<!DOCTYPE html>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/alpheios-components@latest/dist/style/style-components.min.css"/>
+        <link rel="stylesheet" href="typebase.css" type="text/css" />
+        <link rel="stylesheet" href="normalize.css" type="text/css" />
+        <link rel="stylesheet" href="fonts.css" type="text/css" />
     </head>
 <body>
+<article style="margin:16px">
     <div class="alpheios-enabled">"""
 
-FOOTER = """</div>
+FOOTER = """</article>
+</div>
 <style>
 .en {
     cursor: not-allowed;
