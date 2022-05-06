@@ -342,3 +342,107 @@
 21.01.07@en They are thus derived—from Singulars, those designating one possessor, as ἐμοῦ, ἐμός; from Duals, those designating two, as from νῶϊ, νωίτερος; from Plurals, those designating many, as from ἡμεῖς, ἡμέτερος.
 21.01.08@grc τῶν δὲ ἀντωνυμιῶν αἱ μέν εἰσιν ἀσύναρθροι, αἱ δὲ σύναρθροι· ἀσύναρθροι μὲν οἷον ἐγώ, σύναρθροι δὲ οἷον ὁ ἐμός.
 21.01.08@en Of the Pronouns, some are [used] without the article and some with it—without the article, as ἐγώ; with the article, as ὁ ἐμός.
+22.h1@grc ΠΕΡΙ ΠΡΟΘΕΣΕΩΣ.
+22.h1@en On Prepositions (πρόθεσις).
+22.01.01@grc Πρόθεσίς ἐστι λέξις προτιθεμένη πάντων τῶν τοῦ λόγου μερῶν ἔν τε συνθέσει καὶ συντάξει.
+22.01.01@en A Preposition is a word placed before any of the parts of speech, both in Composition and in Syntax.
+22.01.02@grc εἰσὶ δὲ αἱ πᾶσαι προθέσεις ὀκτὼ καὶ δέκα, ὧν μονοσύλλαβοι μὲν ἕξ· ἐν, εἰς, ἐξ, σύν, πρό, πρός, αἵτινες οὐκ ἀναστρέφονται· δισύλλαβοι δὲ δύο καὶ δέκα, ἀνά, κατά, διά, μετά, παρά, ἀντί, ἐπί, περί, ἀμφί, ἀπό, ὑπό, ὑπέρ.
+22.01.02@en The number of Prepositions is eighteen, whereof six are monosyllabic, ἐν , εἰς , ἔξ , πρό , πρός , σύν —which are incapable of anastrophé—and twelve are dissyllabic, ἀνά, κατά, διά, μετά, παρά, ἀντί, ἐπί, περί, ἀμφί, ἀπό, ὑπό, ὑπέρ.
+23.h1@grc ΠΕΡΙ ΕΠΙΡΡΗΜΑΤΟΣ.
+23.h1@en On the Adverb (ἐπίῤῥημα).
+23.01.01@grc Ἐπίρρημά ἐστι μέρος λόγου ἄκλιτον, κατὰ ῥήματος λεγόμενον ἢ ἐπιλεγόμενον ῥήματι.
+23.01.01@en An Adverb is an indeclinable part of speech, said of a verb or added to a verb.
+23.01.02@grc Τῶν δὲ ἐπιρρημάτων τὰ μέν ἐστιν ἁπλᾶ, τὰ δὲ σύνθετα· ἁπλᾶ μὲν ὡς πάλαι, σύνθετα δὲ ὡς πρόπαλαι.
+23.01.02@en Of the Adverbs, some are Simple, and others Compound—Simple, as πάλαι; Compound, as πρόπαλαι.
+23.01.03@grc Τὰ δὲ χρόνου δηλωτικά, οἷον νῦν τότε αὖθις· τούτοις δὲ ὡς εἴδη ὑποτακτέον τὰ καιροῦ παραστατικά, οἷον, σήμερον, αὔριον, τόφρα, τέως, πηνίκα.
+23.01.03@en Some are indicative of time, as νῦν, τότε, αὖθις: to these we must subordinate as species those that connote particular times or seasons, as σήμερον, αὔριον, τόφρα, τέως, πηνίκα.
+23.01.04@grc τὰ δὲ μεσότητος, οἷον, καλῶς, σοφῶς.
+23.01.04@en Some indicate manner, as καλῶς, σοφῶς, δυνατῶς;
+23.01.05@grc τὰ δὲ ποιότητος, οἷον πύξ, λάξ, βοτρυδόν,ἀγεληδόν.
+23.01.05@en some, quality, as πύξ, λάξ, βοτρυδόν, ἀγεληδόν;
+23.01.06@grc τὰ δὲ ποσότητος, οἷον πολλάκις ὀλιγάκις.
+23.01.06@en some, quantity, as πολλάκις, ὀλιγάκις, μυριάκις;
+23.01.07@grc τὰ δὲ ἀριθμοῦ δηλωτικά, οἷον δίς τρίς τετράκις.
+23.01.07@en some, number, as δίς, τρίς, τετράκις;
+23.01.08@grc τὰ δὲ τοπικά, οἷον ἄνω κάτω· ὧν σχέσεις εἰσὶ τρεῖς, ἡ ἐν τόπῳ, ἡ εἰς τόπον, ἡ ἐκ τόπου, οἷον οἴκοι οἴκαδε οἴκοθεν.
+23.01.08@en some, place, as ἄνω, κάτω—of these there are three kinds, those signifying /in/ a place, those signifying /to/ a place, and those signifying /from/ a place, as οἴκοι, οἴκαδε, οἴκοθεν.
+23.01.09@grc τὰ δὲ εὐχῆς σημαντικά, οἷον εἴθε αἴθε ἄβαλε.
+23.01.09@en Some Adverbs signify a wish, as εἴθε, αἴθε, ἄβαλε;
+23.01.10@grc τὰ δὲ σχετλιαστικά, οἷον παπαῖ ἰού φεῦ.
+23.01.10@en some express horror, as παπαί, ἰού, φεῦ;
+23.01.11@grc τὰ δὲ ἀρνήσεως ἢ ἀποφάσεως, οἷον, οὔ, οὐχί, οὐδῆτα, οὐδαμῶς.
+23.01.11@en some, denial or negation, as οὔ, οὐχί, οὐ δῆτα, οὐδαμῶς;
+23.01.12@grc τὰ δὲ συγκαταθέσεως, οἷον, ναί, ναίχι.
+23.01.12@en some, agreement, as ναί, ναίχι;
+23.01.13@grc τὰ δὲ ἀπαγορεύσεως, οἷον, μή, μηδῆτα, μηδαμῶς.
+23.01.13@en some, prohibition, as μή, μὴ δῆτα, μηδαμῶς;
+23.01.14@grc τὰ δὲ παραβολῆς ἢ ὁμοιώσεως, οἷον, ὡς, ὥσπερ, ἠΰτε, καθάπερ.
+23.01.14@en some, comparison or similarity, as ὥς, ὥσπερ, ἠΰτε, καθά, καθάτερ ;
+23.01.15@grc τὰ δὲ θαυμαστικά, οἷον, βαβαῖ.
+23.01.15@en some, surprise, as βαβαί;
+23.01.16@grc τὰ δὲ εἰκασμοῦ, οἷον, ἴσως, τάχα, τυχόν.
+23.01.16@en some, probability, as ἴσως, τάχα, τυχόν;
+23.01.17@grc τὰ δὲ τάξεως, οἷον, ἑξῆς, ἐφεξῆς, χωρίς.
+23.01.17@en some, order, as ἑξῆς, ἐφεξῆς, χωρίς;
+23.01.18@grc τὰ δὲ ἀθροίσεως, οἷον, ἄρδην, ἅμα, ἤλιθα.
+23.01.18@en some, congregation, as ἄρδην, ἅμα, ἤλιθα;
+23.01.19@grc τὰ δὲ παρακελεύσεως, οἷον, εἶα, ἄγε, φέρε.
+23.01.19@en some, command, as εἶα, ἄγε, φέρε;
+23.01.20@grc τὰ δὲ συγκρίσεως, οἷον, μᾶλλον, ἧττον.
+23.01.20@en some, comparison, as μᾶλλον, ἦττον;
+23.01.21@grc τὰ δὲ ἐρωτήσεως, οἷον, πόθεν, πηνίκα, πῶς.
+23.01.21@en some, interrogation, as πόθεν, ποῦ, πηνίκα, πῶς;
+23.01.22@grc τὰ δὲ ἐπιτάσεως, οἷον, λίαν, σφόδρα, πάνυ, ἄγαν, μάλιστα.
+23.01.22@en some, vehemence, as σφόδρα, ἄγαν, πάνυ, μάλιστα;
+23.01.23@grc τὰ δὲ συλλήψεως, οἷον, ἅμα, ὁμοῦ, ἄμυδις.
+23.01.23@en some, coincidence, as ἅμα, ὁμοῦ, ἄμυδις;
+23.01.24@grc τὰ δὲ ἀπωμοτικά, οἷον, μά.
+23.01.24@en some are deprecative, as μά;
+23.01.25@grc τὰ δὲ κατωμοτικά, οἷον, νή.
+23.01.25@en some are asseverative, as νή;
+23.01.26@grc τὰ δὲ βεβαιώσεως, οἷον, δηλαδή.
+23.01.26@en some are positive, as ἀγνωστέον, γραπτέον, πλευστέον;
+23.01.27@grc τὰ δὲ θετικά, οἷον, γαμητέον, πλευστέον.
+23.01.27@en some express ratification, as δηλαδή;
+23.01.28@grc τὰ δὲ θειασμοῦ, οἷον, εὐοἵ, εὔἁν.
+23.01.28@en and some enthusiasm, as εὐοῖ, εὐάν.
+24.h1@grc ΠΕΡΙ ΣΥΝΔΕΣΜΩΝ.
+24.h1@en On Conjunctions (σύνδεσμος).
+24.01.01@grc Σύνδεσμός ἐστι λέξις συνδέουσα διάνοιαν μετὰ τάξεως καὶ τὸ τῆς ἑρμηνείας κεχηνὸς δηλοῦσα.
+24.01.01@en A Conjunction is a word binding together a thought in order and filling up the hiatuses of speech.
+24.01.02@grc Τῶν δὲ συνδέσμων οἱ μέν εἰσι συμπλεκτικοί, οἱ δὲ διαζευκτικοί, οἱ δὲ συναπτικοί, οἱ δὲ παρασυναπτικοί, οἱ δὲ αἰτιολογικοί, οἱ δὲ +ἀπορρηματικοί+, οἱ δὲ συλλογιστικοί, οἱ δὲ παραπληρωματικοί.
+24.01.02@en Of conjunctions, some are copulative, some disjunctive, some conjunctive, some præter-conjunctive, some causative, some dubitative, some conclusive, and some expletive.
+24.01.03@grc Καὶ συμπλεκτικοὶ μὲν εἰσιν ὅσοι τὴν ἑρμηνείαν ἐπ᾽ ἄπειρον ἐκφερομένην συνδέουσιν.
+24.01.03@en /Copulative/ Conjunctions are those which bind together a discourse which flows on indefinitely:
+24.01.04@grc εἰσὶ δὲ οἵδε· μέν, δέ, τέ, καί, ἀλλά, ἠμέν, ἠδέ, ἰδέ, ἀτάρ, αὐτάρ, ἤτοι, κέν, ἄν.
+24.01.04@en they are these, μέν, δέ, τέ, καί, ἀλλά, ἠμέν, ἠδέ, ἀτάρ, αὐτάρ, ἤτοι.
+24.01.05@grc διαζευκτικοὶ δέ εἰσιν ὅσοι τὴν μὲν φράσιν ἐπισυνδέουσιν, ἀπὸ δὲ πράγματος εἰς πρᾶγμα διιστᾶσιν.
+24.01.05@en /Disjunctive/ Conjunctions are those which bind the phrase more firmly together, and disjoin the facts expressed:
+24.01.06@grc εἰσὶ δὲ οἵδε· ἤ, ἤτοι, ἠέ.
+24.01.06@en they are these, ἤ, ἤτοι, ἠέ.
+24.01.07@grc συναπτικοὶ δέ εἰσιν ὅσοι ὕπαρξιν μὲν οὐ δηλοῦσι, σημαίνουσι δὲ ἀκολουθίαν.
+24.01.07@en /Conjunctive/ Conjunctions are those which do not indicate any actual existence, but signify sequence:
+24.01.08@grc εἰσὶ δὲ οἵδε· εἴ, εἴπερ, εἰδή, εἰδήπερ.
+24.01.08@en they are these, εἰ, εἴπερ, εἰδή, εἰδήπερ.
+24.01.09@grc παρασυναπτικοὶ δέ εἰσιν ὅσοι μεθ᾽ ὑπάρξεως καὶ τάξιν δηλοῦσιν.
+24.01.09@en The /Præter-conjunctives/ are those which, along with actual existence, show also order:
+24.01.10@grc εἰσὶ δὲ οἵδε· ἐπεί ἐπείπερ ἐπειδή ἐδειδήπερ.
+24.01.10@en they are these, ἐπεί, ἐπείπερ, ἐπειδή, ἐπειδήπερ.
+24.01.11@grc αἰτιολογικοὶ δέ εἰσιν ὅσοι ἐπ᾽ ἀποδόσει αἰτίας ἕνεκεν παραλαμβάνονται.
+24.01.11@en /Causatives/ are those which are taken to express cause:
+24.01.12@grc εἰσὶ δὲ οἵδε· ἵνα, ὄφρα, ὅπως, ἕνεκα, οὕνεκα, διὅ, διὅτι, καθ᾽ ὅ, καθ᾽ ὅτι, καθ᾽ ὅσον.
+24.01.12@en they are these, ἵνα, ὄφρα, ὅπως, ἕνεκα, οὕνεκα, ὅτι, διό, διότι, καθό, καθότι, καθόσον.
+24.01.13@grc ἀπορρηματικοὶ+ δέ εἰσιν ὅσοι ἐπαποροῦντες εἰώθασι συνδεῖν.
+24.01.13@en /Dubitatives/ are those which we are wont to use when we are in doubt;
+24.01.14@grc εἰσὶ δὲ οἵδε· ἆρα, κᾶτα, μῶν.
+24.01.14@en they are these, ἆρα, κἆτα, μῶν.
+24.01.15@grc συλλογιστικοὶ δέ εἰσιν ὅσοι πρὸς τὰς ἐπιφοράς τε καὶ συλλήψεις τῶν ἀποδείξεων εὖ διάκεινται.
+24.01.15@en /Inferentials/ are those which lend themselves readily to conclusions and summings-up of demonstrations:
+24.01.16@grc εἰσὶ δὲ οἵδε· ἄρα ἀλλά ἀλλαμήν, τοίνυν, τοιγάρτοι, τοιγαροῦν.
+24.01.16@en they are these, ἄρα, ἀλλά, ἀλλὰ μέν, τοίνυν, τοιγάρτοι, τοιγαροῦν.
+24.01.17@grc παραπληρωματικοὶ δέ εἰσιν ὅσοι μέτρου ἢ κόσμου ἕνεκεν παραλαμβάνονται.
+24.01.17@en /Expletives/ are those which are used for the sake of metre or ornament:
+24.01.18@grc εἰσὶ δὲ οἵδε· δή, ῥά, νύ, ποῦ, τοί, θήν, ἄρ, δῆτα, πέρ, πώ, μήν, ἄν, αὖ, νῦν, οὖν, κέν, γέ.
+24.01.18@en they are these, δή, ῥά, νύ, ποῦ, τοί, θήν, ἄρ, δῆτα, πέρ, πώ, μήν, ἄν, αὖ, οὖν, κέν, γέ.
+24.01.19@grc τινὲς δὲ προστιθέασι καὶ ἐναντιωματικούς, οἷον, ἔμπης, ὅμως.
+24.01.19@en Some persons add also /Adversatives/, as ἔμπης, ὅμως.

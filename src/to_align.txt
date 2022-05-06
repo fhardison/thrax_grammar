@@ -1,0 +1,72 @@
+24.h1@grc ΠΕΡΙ ΣΥΝΔΕΣΜΩΝ.
+24.h1@en On Conjunctions (σύνδεσμος).
+
+24.01.01@grc Σύνδεσμός ἐστι λέξις συνδέουσα διάνοιαν μετὰ τάξεως καὶ τὸ τῆς ἑρμηνείας κεχηνὸς δηλοῦσα.
+24.01.01@en A Conjunction is a word binding together a thought in order and filling up the hiatuses of speech.
+
+24.01.02@grc Τῶν δὲ συνδέσμων οἱ μέν εἰσι συμπλεκτικοί, οἱ δὲ διαζευκτικοί, οἱ δὲ συναπτικοί, οἱ δὲ παρασυναπτικοί, οἱ δὲ αἰτιολογικοί, οἱ δὲ +ἀπορρηματικοί+, οἱ δὲ συλλογιστικοί, οἱ δὲ παραπληρωματικοί.
+24.01.02@en Of conjunctions, some are copulative, some disjunctive, some conjunctive, some præter-conjunctive, some causative, some dubitative, some conclusive, and some expletive.
+
+
+24.01.03@grc Καὶ συμπλεκτικοὶ μὲν εἰσιν ὅσοι τὴν ἑρμηνείαν ἐπ᾽ ἄπειρον ἐκφερομένην συνδέουσιν.
+24.01.03@en /Copulative/ Conjunctions are those which bind together a discourse which flows on indefinitely: 
+
+24.01.04@grc εἰσὶ δὲ οἵδε· μέν, δέ, τέ, καί, ἀλλά, ἠμέν, ἠδέ, ἰδέ, ἀτάρ, αὐτάρ, ἤτοι, κέν, ἄν.
+24.01.04@en they are these, μέν, δέ, τέ, καί, ἀλλά, ἠμέν, ἠδέ, ἀτάρ, αὐτάρ, ἤτοι.
+
+24.01.05@grc διαζευκτικοὶ δέ εἰσιν ὅσοι τὴν μὲν φράσιν ἐπισυνδέουσιν, ἀπὸ δὲ πράγματος εἰς πρᾶγμα διιστᾶσιν.
+24.01.05@en /Disjunctive/ Conjunctions are those which bind the phrase more firmly together, and disjoin the facts expressed: 
+
+24.01.06@grc εἰσὶ δὲ οἵδε· ἤ, ἤτοι, ἠέ.
+24.01.06@en they are these, ἤ, ἤτοι, ἠέ.
+
+24.01.07@grc συναπτικοὶ δέ εἰσιν ὅσοι ὕπαρξιν μὲν οὐ δηλοῦσι, σημαίνουσι δὲ ἀκολουθίαν.
+24.01.07@en /Conjunctive/ Conjunctions are those which do not indicate any actual existence, but signify sequence: 
+
+24.01.08@grc εἰσὶ δὲ οἵδε· εἴ, εἴπερ, εἰδή, εἰδήπερ.
+24.01.08@en they are these, εἰ, εἴπερ, εἰδή, εἰδήπερ.
+
+24.01.09@grc παρασυναπτικοὶ δέ εἰσιν ὅσοι μεθ᾽ ὑπάρξεως καὶ τάξιν δηλοῦσιν.
+24.01.09@en The /Præter-conjunctives/ are those which, along with actual existence, show also order: 
+
+24.01.10@grc εἰσὶ δὲ οἵδε· ἐπεί ἐπείπερ ἐπειδή ἐδειδήπερ.
+24.01.10@en they are these, ἐπεί, ἐπείπερ, ἐπειδή, ἐπειδήπερ.
+
+24.01.11@grc αἰτιολογικοὶ δέ εἰσιν ὅσοι ἐπ᾽ ἀποδόσει αἰτίας ἕνεκεν παραλαμβάνονται.
+24.01.11@en /Causatives/ are those which are taken to express cause:
+
+24.01.12@grc εἰσὶ δὲ οἵδε· ἵνα, ὄφρα, ὅπως, ἕνεκα, οὕνεκα, διὅ, διὅτι, καθ᾽ ὅ, καθ᾽ ὅτι, καθ᾽ ὅσον.
+24.01.12@en they are these, ἵνα, ὄφρα, ὅπως, ἕνεκα, οὕνεκα, ὅτι, διό, διότι, καθό, καθότι, καθόσον.
+
+24.01.13@grc ἀπορρηματικοὶ+ δέ εἰσιν ὅσοι ἐπαποροῦντες εἰώθασι συνδεῖν.
+24.01.13@en /Dubitatives/ are those which we are wont to use when we are in doubt;
+
+24.01.14@grc εἰσὶ δὲ οἵδε· ἆρα, κᾶτα, μῶν.
+24.01.14@en  they are these, ἆρα, κἆτα, μῶν.
+
+24.01.15@grc συλλογιστικοὶ δέ εἰσιν ὅσοι πρὸς τὰς ἐπιφοράς τε καὶ συλλήψεις τῶν ἀποδείξεων εὖ διάκεινται.
+24.01.15@en /Inferentials/ are those which lend themselves readily to conclusions and summings-up of demonstrations: 
+
+24.01.16@grc εἰσὶ δὲ οἵδε· ἄρα ἀλλά ἀλλαμήν, τοίνυν, τοιγάρτοι, τοιγαροῦν.
+24.01.16@en they are these, ἄρα, ἀλλά, ἀλλὰ μέν, τοίνυν, τοιγάρτοι, τοιγαροῦν.
+
+24.01.17@grc παραπληρωματικοὶ δέ εἰσιν ὅσοι μέτρου ἢ κόσμου ἕνεκεν παραλαμβάνονται.
+24.01.17@en /Expletives/ are those which are used for the sake of metre or ornament:
+
+24.01.18@grc εἰσὶ δὲ οἵδε· δή, ῥά, νύ, ποῦ, τοί, θήν, ἄρ, δῆτα, πέρ, πώ, μήν, ἄν, αὖ, νῦν, οὖν, κέν, γέ.
+24.01.18@en  they are these, δή, ῥά, νύ, ποῦ, τοί, θήν, ἄρ, δῆτα, πέρ, πώ, μήν, ἄν, αὖ, οὖν, κέν, γέ.
+
+24.01.19@grc τινὲς δὲ προστιθέασι καὶ ἐναντιωματικούς, οἷον, ἔμπης, ὅμως.
+24.01.19@en Some persons add also /Adversatives/, as ἔμπης, ὅμως.
+
+
+
+
+
+
+
+
+
+
+
+

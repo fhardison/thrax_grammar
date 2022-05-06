@@ -26,7 +26,7 @@ HEADER = """<!DOCTYPE html>
 <body>
     <div class="alpheios-enabled">"""
 
-FOOTER = """    </div>
+FOOTER = """</div>
 <style>
 .en {
     cursor: not-allowed;
