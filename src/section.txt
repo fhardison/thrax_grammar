@@ -1,6 +1,2 @@
-Ὑποπέπτωκε δὲ τῷ ὀνόματι ταῦτα, ἃ καὶ αὐτὰ εἴδη προσαγορεύεται· κύριον,
-προσηγορικόν, ἐπίθετον, πρός τι ἔχον, ὡς πρός τι ἔχον, ὁμώνυμον,
-συνώνυμον, διώνυμον, ἐπώνυμον, ἐθνικόν, ἐρωτηματικόν, ἀόριστον,
-ἀναφορικὸν ὃ καὶ ὁμοιωματικὸν καὶ δεικτικὸν καὶ ἀνταποδοτικὸν καλεῖται,
-περιληπτικόν, ἐπιμεριζόμενον, περιεκτικόν, πεποιημένον, γενικόν, ἰδικόν,
-τακτικόν, ἀριθμητικόν, ἀπολελυμένον, μετουσιαστικόν.
+The /Persons/ of the Primitive Pronouns are ἐνώ , σύ, ἴ; those of the Derivative Pronouns, ἐμός, σός, ὅς. The /Genders/ of the Primitive Pronouns are not expressed in speech, but by the indication which they make, as ἐγώ (I), whereas the Genders of the Derivatives are expressed in speech, as ὁ ἐμός, ἡ ἐμή, τὸ ἐμόν. The /Numbers/ of the Primitives are—Singular, ἐγώ, σύ, ἴ; Dual, νῶϊ, σφῶϊ; Plural, ἡμεῖς, ὑμεῖς, σφεῖς:
+those of the Derivatives—Singular, ἐμός, σός, ὅς; Dual, ἐμώ, σώ, ὥ; Plural, ἐμοί, σοί, οἵ. The /Cases/ of the Primitives are—Direct, ἐγώ, σύ, ἴ; Generic, ἐμοῦ, σοῦ, οὗ; Dative, ἐμοί, σοί, οἷ; Accusative, ἐμέ, σέ, ἕ; Vocative, σύ: those of the Derivatives are ἐμός, σός, ὅς; ἐμοῦ, σοῦ, οὗ; ἐμῷ, σῷ, ᾧ· ἐμόν, σόν, ὅν. There are two /Forms:/ Simple and Compound—Simple, ἐμοῦ, σοῦ, οὗ; Compound, ἐμαυτοῦ, σαυτοῦ, ἑαυτοῦ. There are two /Species/, inasmuch as some are Primitive, as ἐγώ, σύ, ἴ, and others Derivative, as are all the Possessives, which are also called Bi-personals. They are thus derived—from Singulars, those designating one possessor, as ἐμοῦ, ἐμός; from Duals, those designating two, as from νῶϊ, νωίτερος; from Plurals, those designating many, as from ἡμεῖς, ἡμέτερος. Of the Pronouns, some are [used] without the article and some with it—without the article, as ἐγώ; with the article, as ὁ ἐμός.
