@@ -1,32 +1,14 @@
 import re
 
-FILE = '..\\originals\\dyscolus\\synt.txt'
 
-lines = []
-buffer = []
-header = ''
-l_count = 0
+FILES = ['pron', 'conn', 'adv']
 
-with open(FILE, 'r', encoding='utf-8') as f:
-    header, rest = f.read().split("\n\n", maxsplit=1)
-    
-    for line in re.sub(r'(\S)-\s+', r'\1', rest).split('\n'):
-        l = line.strip()
-        if not l:
-            continue
-         
-        if '{' in l:
-            l = f"<blockquote>{l}</blockquote>"
-            lines.append(' '.join(buffer))
-            buffer = []
-            lines.append(l)
-        elif l[-1] in '.?!':
-            buffer.append(l)
-            lines.append(' '.join(buffer))
-            buffer = []
-        else:
-            buffer.append(l)
-    lines.append(' '.join(buffer))
+FILE = '..\\originals\\dyscolus\\'
+OFILE = '..\\docs\\dyscolus_'
+
+
+END_PUNC = ".?!"
+
 
 
 HEADER = """<!DOCTYPE html>
@@ -73,16 +55,41 @@ font-style:normal;
 </body>
 </html>"""
 
-OFILE = '..\\docs\\dyscolus_synt.html'
+def handle_poss_blockquote(l):
+    if re.findall(r'\d+\)', l) != []:
+        return f"<blockquote>{l}</blockquote>"
+    return l
 
-header = header.replace('\n', '<br />')
 
-with open(OFILE, 'w', encoding="UTF-8") as g:
-    print(HEADER, file=g)
-    print(f"<h1>{header}</h1>", file=g)
-    for line in lines:
-        print(f"<p>{line}</p>", file=g)
-    print(FOOTER, file=g)
-    
-print("DONE")
-            
+def process_lines(lines, ofile):
+    lines = [x.strip() for x in lines if x.strip()]
+    last_line = lines[0]
+    print('<p>', end='',file=ofile)
+    for line in lines[1:]:
+        
+        if (last_line[-1] in ')]' and last_line[-2] in END_PUNC) or last_line[-1] in END_PUNC:
+            if line[0].isupper():
+                print(handle_poss_blockquote(last_line) + '</p>\n<p>',file=ofile)
+            else:
+                print(handle_poss_blockquote(last_line), end=' ', file=ofile)
+        else:
+            print(handle_poss_blockquote(last_line), end=' ', file=ofile)
+        last_line = line
+    print(last_line + '</p>', end='', file=ofile)
+
+
+
+
+def process_file(fpath, opath):
+    with open(fpath, 'r', encoding='utf-8') as f, open(opath, 'w', encoding="utf-8") as g:
+        print(HEADER, file=g)        
+        header, rest = f.read().split("\n\n", maxsplit=1)
+        header = header.replace('\n', '<br />')
+        print(f"<h1>{header}</h1>", file=g)
+        lines = re.sub(r'(\S)-\s+', r'\1', rest).split('\n')
+        process_lines(lines, g)
+        print(FOOTER, file=g)
+
+
+for f in FILES:
+    process_file(FILE + f + '.txt', OFILE + f + '.html')
