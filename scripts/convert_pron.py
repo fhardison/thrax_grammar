@@ -14,8 +14,8 @@ END_PUNC = ".?!"
 HEADER = """<!DOCTYPE html>
 <html>
     <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/alpheios-components@latest/dist/style/style-components.min.css"/>
         <link rel="stylesheet" href="typebase.css" type="text/css" />
         <link rel="stylesheet" href="normalize.css" type="text/css" />
